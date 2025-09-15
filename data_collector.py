@@ -7,7 +7,7 @@ import pandas as pd
 import time
 from datetime import datetime
 from typing import Dict, List, Optional
-from config import ENDPOINTS, DATA_CONFIG
+from config import ENDPOINTS, DATA_CONFIG, VLRGG_ENDPOINTS
 
 
 class ValorantDataCollector:
@@ -40,6 +40,40 @@ class ValorantDataCollector:
         except requests.exceptions.RequestException as e:
             print(f"Error fetching results: {e}")
             return []
+
+    def fetch_results_full(self, region: str = 'all', timespan: str = 'all', q: str = 'all', max_pages: int = 20) -> List[Dict]:
+        """Fetch results with filters and pagination from unofficial VLR API"""
+        all_rows: List[Dict] = []
+        page = 1
+        while page <= max_pages:
+            try:
+                params = {
+                    'region': region,
+                    'timespan': timespan,
+                    'q': q,
+                    'page': page
+                }
+                resp = self.session.get(ENDPOINTS['results'], params=params)
+                resp.raise_for_status()
+                data = resp.json()
+                rows = data.get('data', []) if isinstance(data, dict) else []
+                if not rows:
+                    break
+                # tag page for traceability
+                for r in rows:
+                    if isinstance(r, dict):
+                        r['page'] = page
+                        r['region'] = region
+                        r['timespan'] = timespan
+                        r['q'] = q
+                all_rows.extend(rows)
+                page += 1
+                time.sleep(0.3)
+            except Exception as e:
+                print(f"Error fetching results page {page}: {e}")
+                break
+        print(f"Fetched {len(all_rows)} results (region={region}, timespan={timespan}, q={q})")
+        return all_rows
     
     def fetch_teams(self) -> List[Dict]:
         """Fetch team data from the API - DISABLED due to 404 errors"""
@@ -111,6 +145,19 @@ class ValorantDataCollector:
         except requests.exceptions.RequestException as e:
             print(f"Error fetching matches: {e}")
             return []
+
+    def fetch_all_matches_bulk(self) -> List[Dict]:
+        """Fetch all matches from the bulk endpoint"""
+        try:
+            response = self.session.get(ENDPOINTS['matches_all'])
+            response.raise_for_status()
+            data = response.json()
+            items = data.get('data') if isinstance(data, dict) else []
+            print(f"Fetched {len(items)} from matches/get-all-matches")
+            return items if isinstance(items, list) else []
+        except requests.exceptions.RequestException as e:
+            print(f"Error fetching get-all-matches: {e}")
+            return []
     
     def fetch_all_matches(self, max_pages: int = None) -> List[Dict]:
         """Fetch matches data across pages with limit"""
@@ -170,13 +217,222 @@ class ValorantDataCollector:
         # Fetch matches data (enhanced with pagination)
         if fetch_all_matches:
             print("Fetching all matches data...")
-            data['matches'] = self.fetch_all_matches()
+            # Combine paged and bulk for best coverage
+            paged = self.fetch_all_matches()
+            bulk = self.fetch_all_matches_bulk()
+            data['matches'] = (paged or []) + (bulk or [])
         else:
             print("Fetching matches data...")
             data['matches'] = self.fetch_matches()
         print(f"Fetched {len(data['matches'])} matches")
         
         return data
+
+    def collect_unofficial_full(self) -> Dict[str, List[Dict]]:
+        """Collect comprehensive datasets using the user-specified unofficial endpoints"""
+        print("Collecting data using unofficial endpoints (results/events/matches bulk)...")
+        collected: Dict[str, List[Dict]] = {}
+
+        # Results across regions and pages
+        regions = ['all', 'na', 'eu', 'br', 'ap', 'kr', 'ch', 'jp', 'lan', 'las', 'oce', 'mn', 'gc']
+        timespans = ['all', '30']
+        q_values = ['all', 'completed', 'upcoming']
+        all_results: List[Dict] = []
+        for region in regions:
+            for timespan in timespans:
+                for q in q_values:
+                    rows = self.fetch_results_full(region=region, timespan=timespan, q=q, max_pages=50)
+                    all_results.extend(rows)
+        collected['results'] = all_results
+
+        # Events across statuses and pages
+        all_events: List[Dict] = []
+        for status in ['all', 'ongoing', 'upcoming', 'completed']:
+            page = 1
+            while page <= DATA_CONFIG['max_events_pages']:
+                try:
+                    params = {'status': status, 'region': 'all', 'page': page}
+                    resp = self.session.get(ENDPOINTS['events'], params=params)
+                    resp.raise_for_status()
+                    payload = resp.json()
+                    items = payload.get('data', []) if isinstance(payload, dict) else []
+                    if not items:
+                        break
+                    for it in items:
+                        if isinstance(it, dict):
+                            it['status_filter'] = status
+                            it['page'] = page
+                    all_events.extend(items)
+                    page += 1
+                    time.sleep(0.3)
+                except Exception as e:
+                    print(f"Error fetching events status={status} page={page}: {e}")
+                    break
+        collected['events'] = all_events
+
+        # Bulk matches
+        collected['matches'] = self.fetch_all_matches_bulk()
+
+        return collected
+
+    # ---------------- VLRGG Extended Collection ----------------
+    def vlrgg_get(self, key: str, params: Optional[Dict] = None) -> Dict:
+        """Generic GET to VLRGG endpoints with fallback URL patterns"""
+        params = params or {}
+        url_candidates = []
+        try:
+            # Configured endpoint first
+            url_candidates.append(VLRGG_ENDPOINTS[key])
+        except KeyError:
+            pass
+
+        # Fallback patterns based on public docs variants
+        base_variants = [
+            "https://vlrggapi.vercel.app/api",
+            "https://vlrggapi.vercel.app/api/v1",
+            "https://vlrggapi.vercel.app",
+            "https://vlrggapi.vercel.app/v1",
+        ]
+        path_variants = [key, key.strip('/')]
+
+        for base in base_variants:
+            for path in path_variants:
+                url_candidates.append(f"{base}/{path}")
+
+        last_err = None
+        for url in url_candidates:
+            try:
+                resp = self.session.get(url, params=params)
+                if resp.status_code == 404:
+                    continue
+                resp.raise_for_status()
+                return resp.json()
+            except Exception as e:
+                last_err = e
+                continue
+
+        if last_err:
+            print(f"VLRGG {key} fetch error: {last_err}")
+        else:
+            print(f"VLRGG {key} fetch error: No valid URL patterns responded")
+        return {}
+
+    def collect_vlrgg_all(self) -> Dict[str, List[Dict]]:
+        """Collect comprehensive datasets from VLRGG API with parameters and pagination"""
+        print("Collecting from VLRGG API (news, stats, rankings, events, match)...")
+        data: Dict[str, List[Dict]] = {}
+
+        # News (no params)
+        news_payload = self.vlrgg_get('news')
+        news_items = news_payload.get('data') if isinstance(news_payload, dict) else []
+        data['news'] = news_items if isinstance(news_items, list) else []
+        print(f"Fetched {len(data['news'])} from news")
+        time.sleep(0.2)
+
+        # Regions and timespans
+        regions = ['na', 'eu', 'br', 'ap', 'kr', 'ch', 'jp', 'lan', 'las', 'oce', 'mn', 'gc']
+        timespans = ['30', 'all']
+
+        # Stats (region, timespan)
+        stats_all: List[Dict] = []
+        for region in regions:
+            for timespan in timespans:
+                payload = self.vlrgg_get('stats', {'region': region, 'timespan': timespan})
+                items = payload.get('data') if isinstance(payload, dict) else []
+                if isinstance(items, list):
+                    for it in items:
+                        if isinstance(it, dict):
+                            it['region'] = region
+                            it['timespan'] = timespan
+                    stats_all.extend(items)
+                time.sleep(0.15)
+        data['stats'] = stats_all
+        print(f"Fetched {len(stats_all)} rows from stats (all regions/timespans)")
+
+        # Rankings (region)
+        rankings_all: List[Dict] = []
+        for region in regions:
+            payload = self.vlrgg_get('rankings', {'region': region})
+            items = payload.get('data') if isinstance(payload, dict) else []
+            if isinstance(items, list):
+                for it in items:
+                    if isinstance(it, dict):
+                        it['region'] = region
+                rankings_all.extend(items)
+            time.sleep(0.15)
+        data['rankings'] = rankings_all
+        print(f"Fetched {len(rankings_all)} rows from rankings (all regions)")
+
+        # Matches (q: upcoming, live_score, results)
+        match_all: List[Dict] = []
+        for q in ['upcoming', 'live_score', 'results']:
+            payload = self.vlrgg_get('match', {'q': q})
+            items = payload.get('data') if isinstance(payload, dict) else []
+            if isinstance(items, list):
+                for it in items:
+                    if isinstance(it, dict):
+                        it['q'] = q
+                match_all.extend(items)
+            time.sleep(0.15)
+        data['match'] = match_all
+        print(f"Fetched {len(match_all)} rows from match (all q types)")
+
+        # Events (q filter + pagination for completed)
+        events_all: List[Dict] = []
+        # Upcoming and both (no page)
+        for q in [None, 'upcoming']:
+            params = {'q': q} if q else None
+            payload = self.vlrgg_get('events', params)
+            items = payload.get('data') if isinstance(payload, dict) else []
+            if isinstance(items, list):
+                for it in items:
+                    if isinstance(it, dict):
+                        it['q'] = q or 'all'
+                        it['page'] = 1
+                events_all.extend(items)
+            time.sleep(0.15)
+        # Completed with pages
+        for page in range(1, 11):  # first 10 pages
+            payload = self.vlrgg_get('events', {'q': 'completed', 'page': page})
+            items = payload.get('data') if isinstance(payload, dict) else []
+            if not items:
+                # Stop if no more items
+                break
+            if isinstance(items, list):
+                for it in items:
+                    if isinstance(it, dict):
+                        it['q'] = 'completed'
+                        it['page'] = page
+                events_all.extend(items)
+            time.sleep(0.15)
+        data['events'] = events_all
+        print(f"Fetched {len(events_all)} rows from events (all filters)")
+
+        # Health
+        health_payload = self.vlrgg_get('health')
+        health_items = health_payload.get('data') if isinstance(health_payload, dict) else []
+        data['health'] = health_items if isinstance(health_items, list) else []
+        print(f"Fetched {len(data['health'])} from health")
+
+        return data
+
+    def save_vlrgg_csv(self, vlrgg_data: Dict[str, List[Dict]]):
+        """Save VLRGG datasets to CSVs under data/raw/ with schema-friendly columns"""
+        import os
+        from datetime import datetime
+        os.makedirs("data/raw", exist_ok=True)
+        ts = datetime.now().strftime("%Y%m%d_%H%M%S")
+
+        for name, records in vlrgg_data.items():
+            try:
+                # Ensure list of dicts
+                recs = records if isinstance(records, list) else ([records] if records else [])
+                df = pd.json_normalize(recs)
+                out = f"data/raw/vlrgg_{name}_{ts}.csv"
+                df.to_csv(out, index=False, encoding='utf-8')
+                print(f"Saved {name} -> {out} ({len(df)})")
+            except Exception as e:
+                print(f"Could not save {name}: {e}")
     
     def save_data(self, data: Dict[str, List[Dict]], filename_prefix: str = "valorant_data"):
         """Save collected data to JSON and CSV files in organized folders"""

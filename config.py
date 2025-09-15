@@ -5,6 +5,7 @@ Configuration file for Valorant VCT Winner Prediction Model
 # API Configuration
 VLR_API_BASE_URL = "https://vlr.orlandomm.net/api/v1"
 VLR_ESPORTS_API_BASE_URL = "https://vlresports.vercel.app"
+VLRGG_API_BASE_URL = "https://vlrggapi.vercel.app/api"
 
 # API Endpoints
 ENDPOINTS = {
@@ -12,7 +13,18 @@ ENDPOINTS = {
     'teams': f"{VLR_ESPORTS_API_BASE_URL}/teams",
     'players': f"{VLR_ESPORTS_API_BASE_URL}/players",
     'events': f"{VLR_API_BASE_URL}/events",  # Use VLR API for events
-    'matches': f"{VLR_API_BASE_URL}/matches"  # Use VLR API for matches
+    'matches': f"{VLR_API_BASE_URL}/matches",  # Use VLR API for matches
+    'matches_all': f"{VLR_ESPORTS_API_BASE_URL}/matches/get-all-matches"  # Bulk matches endpoint
+}
+
+# VLRGG API Endpoints (extended coverage)
+VLRGG_ENDPOINTS = {
+    'news': f"{VLRGG_API_BASE_URL}/news",
+    'stats': f"{VLRGG_API_BASE_URL}/stats",
+    'rankings': f"{VLRGG_API_BASE_URL}/rankings",
+    'match': f"{VLRGG_API_BASE_URL}/match",
+    'events': f"{VLRGG_API_BASE_URL}/events",
+    'health': f"{VLRGG_API_BASE_URL}/health"
 }
 
 # Model Configuration

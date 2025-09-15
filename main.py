@@ -104,6 +104,52 @@ def train_model(X, y, feature_names):
     return ml_model, results
 
 
+def save_predictions_with_previous_matches(df: pd.DataFrame, X: pd.DataFrame, metadata: pd.DataFrame,
+                                          ml_model, team_stats: Dict):
+    """Predict all processed matches and save with previous-match counts per team"""
+    print("\n" + "=" * 60)
+    print("GENERATING PREDICTIONS FOR PROCESSED MATCHES")
+    print("=" * 60)
+
+    # Ensure output directory
+    output_dir = os.path.join("data", "processed")
+    os.makedirs(output_dir, exist_ok=True)
+
+    # Scale features and predict probabilities
+    X_scaled = ml_model.scaler.transform(X)
+    proba = ml_model.best_model.predict_proba(X_scaled)
+
+    # Build prediction DataFrame aligned with metadata
+    preds_df = metadata.copy()
+    preds_df['pred_team1_win_prob'] = proba[:, 1]
+    preds_df['pred_team2_win_prob'] = proba[:, 0]
+    preds_df['predicted_winner'] = preds_df.apply(
+        lambda r: r['team1_name'] if r['pred_team1_win_prob'] >= r['pred_team2_win_prob'] else r['team2_name'], axis=1
+    )
+    preds_df['prediction_confidence'] = preds_df[['pred_team1_win_prob', 'pred_team2_win_prob']].max(axis=1)
+
+    # Map previous matches (total historical matches computed in team_stats)
+    def get_total_matches(team_name: str) -> int:
+        stats = team_stats.get(team_name, {})
+        return int(stats.get('total_matches', 0))
+
+    preds_df['team1_previous_matches'] = preds_df['team1_name'].apply(get_total_matches)
+    preds_df['team2_previous_matches'] = preds_df['team2_name'].apply(get_total_matches)
+
+    # Join with original processed df to include ground-truth outcome if available
+    merged = preds_df.merge(
+        df[['match_id', 'team1_won', 'team2_won', 'team1_country', 'team2_country', 'tournament', 'event']],
+        on='match_id', how='left'
+    )
+
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    out_path = os.path.join(output_dir, f"processed_valorant_data_predictions_{timestamp}.csv")
+    merged.to_csv(out_path, index=False)
+    print(f"Saved predictions with previous matches to {out_path}")
+
+    return out_path
+
+
 def evaluate_model(ml_model, X, y, feature_names):
     """Evaluate the trained model"""
     print("\n" + "=" * 60)
@@ -195,7 +241,7 @@ def demo_predictions(predictor):
 def main():
     """Main execution function"""
     parser = argparse.ArgumentParser(description='Valorant VCT Winner Prediction System')
-    parser.add_argument('--mode', choices=['full', 'collect', 'collect-csv', 'collect-all-regions', 'preprocess', 'train', 'predict', 'analyze-csv', 'collect-map-stats', 'collect-historical'], 
+    parser.add_argument('--mode', choices=['full', 'collect', 'collect-csv', 'collect-all-regions', 'preprocess', 'train', 'predict', 'analyze-csv', 'collect-map-stats', 'collect-historical', 'collect-vlrgg', 'collect-unofficial'], 
                        default='full', help='Execution mode')
     parser.add_argument('--model-path', type=str, help='Path to saved model for prediction mode')
     parser.add_argument('--team1', type=str, help='Team 1 name for prediction')
@@ -223,6 +269,8 @@ def main():
         ml_model, results = train_model(X, y, feature_names)
         evaluator = evaluate_model(ml_model, X, y, feature_names)
         predictor = create_prediction_interface(ml_model, team_stats, region_strength, h2h_stats)
+        # Save predictions enriched with previous matches counts
+        save_predictions_with_previous_matches(df, X, metadata, ml_model, team_stats)
         demo_predictions(predictor)
         
     elif args.mode == 'collect':
@@ -276,6 +324,21 @@ def main():
         from historical_data_collector import collect_historical
         print("Collecting historical datasets (teams, map win rates, previous matches)...")
         collect_historical()
+    
+    elif args.mode == 'collect-vlrgg':
+        # Collect extended datasets from VLRGG API and save to CSVs
+        print("Collecting comprehensive datasets from VLRGG API...")
+        collector = ValorantDataCollector()
+        vlrgg_data = collector.collect_vlrgg_all()
+        collector.save_vlrgg_csv(vlrgg_data)
+        print("Saved VLRGG datasets to data/raw/")
+
+    elif args.mode == 'collect-unofficial':
+        # Use user-specified unofficial endpoints to fetch exhaustive data
+        collector = ValorantDataCollector()
+        data = collector.collect_unofficial_full()
+        collector.save_data(data, filename_prefix="valorant_unofficial")
+        print("Saved unofficial datasets to data/raw/")
         
     elif args.mode == 'preprocess':
         # Load existing raw data
