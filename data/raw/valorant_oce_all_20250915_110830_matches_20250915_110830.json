@@ -1,0 +1,7822 @@
+[
+  {
+    "id": "542200",
+    "teams": [
+      {
+        "name": "Bilibili Gaming",
+        "country": "cn",
+        "score": null
+      },
+      {
+        "name": "MIBR",
+        "country": "br",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Opening (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "7h 21m",
+    "timestamp": 1757923200,
+    "utcDate": "Mon, 15 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-15T08:00:00.000Z"
+  },
+  {
+    "id": "542201",
+    "teams": [
+      {
+        "name": "Rex Regum Qeon",
+        "country": "id",
+        "score": null
+      },
+      {
+        "name": "FNATIC",
+        "country": "eu",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Opening (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "10h 21m",
+    "timestamp": 1757934000,
+    "utcDate": "Mon, 15 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-15T11:00:00.000Z"
+  },
+  {
+    "id": "542197",
+    "teams": [
+      {
+        "name": "Paper Rex",
+        "country": "sg",
+        "score": null
+      },
+      {
+        "name": "GIANTX",
+        "country": "eu",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2d 7h",
+    "timestamp": 1758096000,
+    "utcDate": "Wed, 17 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-17T08:00:00.000Z"
+  },
+  {
+    "id": "542202",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2d 10h",
+    "timestamp": 1758106800,
+    "utcDate": "Wed, 17 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-17T11:00:00.000Z"
+  },
+  {
+    "id": "542208",
+    "teams": [
+      {
+        "name": "DRX",
+        "country": "kr",
+        "score": null
+      },
+      {
+        "name": "NRG",
+        "country": "us",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "3d 7h",
+    "timestamp": 1758182400,
+    "utcDate": "Thu, 18 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-18T08:00:00.000Z"
+  },
+  {
+    "id": "542213",
+    "teams": [
+      {
+        "name": "Team Heretics",
+        "country": "eu",
+        "score": null
+      },
+      {
+        "name": "T1",
+        "country": "kr",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "3d 10h",
+    "timestamp": 1758193200,
+    "utcDate": "Thu, 18 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-18T11:00:00.000Z"
+  },
+  {
+    "id": "542198",
+    "teams": [
+      {
+        "name": "Xi Lai Gaming",
+        "country": "cn",
+        "score": null
+      },
+      {
+        "name": "Sentinels",
+        "country": "us",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "4d 7h",
+    "timestamp": 1758268800,
+    "utcDate": "Fri, 19 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-19T08:00:00.000Z"
+  },
+  {
+    "id": "542203",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "4d 10h",
+    "timestamp": 1758279600,
+    "utcDate": "Fri, 19 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-19T11:00:00.000Z"
+  },
+  {
+    "id": "542209",
+    "teams": [
+      {
+        "name": "Team Liquid",
+        "country": "eu",
+        "score": null
+      },
+      {
+        "name": "EDward Gaming",
+        "country": "cn",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "5d 7h",
+    "timestamp": 1758355200,
+    "utcDate": "Sat, 20 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-20T08:00:00.000Z"
+  },
+  {
+    "id": "542214",
+    "teams": [
+      {
+        "name": "G2 Esports",
+        "country": "us",
+        "score": null
+      },
+      {
+        "name": "Dragon Ranger Gaming",
+        "country": "cn",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "5d 10h",
+    "timestamp": 1758366000,
+    "utcDate": "Sat, 20 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-20T11:00:00.000Z"
+  },
+  {
+    "id": "542199",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "6d 7h",
+    "timestamp": 1758441600,
+    "utcDate": "Sun, 21 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-21T08:00:00.000Z"
+  },
+  {
+    "id": "542204",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "6d 10h",
+    "timestamp": 1758452400,
+    "utcDate": "Sun, 21 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-21T11:00:00.000Z"
+  },
+  {
+    "id": "542210",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 0d",
+    "timestamp": 1758528000,
+    "utcDate": "Mon, 22 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-22T08:00:00.000Z"
+  },
+  {
+    "id": "542215",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 0d",
+    "timestamp": 1758538800,
+    "utcDate": "Mon, 22 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-22T11:00:00.000Z"
+  },
+  {
+    "id": "542264",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 3d",
+    "timestamp": 1758787200,
+    "utcDate": "Thu, 25 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-25T08:00:00.000Z"
+  },
+  {
+    "id": "542265",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 3d",
+    "timestamp": 1758798000,
+    "utcDate": "Thu, 25 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-25T11:00:00.000Z"
+  },
+  {
+    "id": "542266",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 4d",
+    "timestamp": 1758873600,
+    "utcDate": "Fri, 26 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-26T08:00:00.000Z"
+  },
+  {
+    "id": "542267",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 4d",
+    "timestamp": 1758884400,
+    "utcDate": "Fri, 26 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-26T11:00:00.000Z"
+  },
+  {
+    "id": "542273",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 1",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 5d",
+    "timestamp": 1758960000,
+    "utcDate": "Sat, 27 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-27T08:00:00.000Z"
+  },
+  {
+    "id": "542274",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 1",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 5d",
+    "timestamp": 1758970800,
+    "utcDate": "Sat, 27 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-27T11:00:00.000Z"
+  },
+  {
+    "id": "542268",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Semifinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 6d",
+    "timestamp": 1759046400,
+    "utcDate": "Sun, 28 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-28T08:00:00.000Z"
+  },
+  {
+    "id": "542269",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Semifinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 6d",
+    "timestamp": 1759057200,
+    "utcDate": "Sun, 28 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-28T11:00:00.000Z"
+  },
+  {
+    "id": "542277",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 2",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 0d",
+    "timestamp": 1759132800,
+    "utcDate": "Mon, 29 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-29T08:00:00.000Z"
+  },
+  {
+    "id": "542276",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 2",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 0d",
+    "timestamp": 1759143600,
+    "utcDate": "Mon, 29 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-29T11:00:00.000Z"
+  },
+  {
+    "id": "542270",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 4d",
+    "timestamp": 1759471200,
+    "utcDate": "Fri, 03 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-03T06:00:00.000Z"
+  },
+  {
+    "id": "542278",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 3",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 4d",
+    "timestamp": 1759482000,
+    "utcDate": "Fri, 03 Oct 2025 09:00:00 GMT",
+    "utc": "2025-10-03T09:00:00.000Z"
+  },
+  {
+    "id": "542279",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 5d",
+    "timestamp": 1759557600,
+    "utcDate": "Sat, 04 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-04T06:00:00.000Z"
+  },
+  {
+    "id": "542272",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Grand Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 6d",
+    "timestamp": 1759644000,
+    "utcDate": "Sun, 05 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-05T06:00:00.000Z"
+  },
+  {
+    "id": "534747",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Upper Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 3d",
+    "timestamp": 1760022000,
+    "utcDate": "Thu, 09 Oct 2025 15:00:00 GMT",
+    "utc": "2025-10-09T15:00:00.000Z"
+  },
+  {
+    "id": "534753",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Lower Round 3",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 3d",
+    "timestamp": 1760032800,
+    "utcDate": "Thu, 09 Oct 2025 18:00:00 GMT",
+    "utc": "2025-10-09T18:00:00.000Z"
+  },
+  {
+    "id": "534754",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Lower Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 4d",
+    "timestamp": 1760108400,
+    "utcDate": "Fri, 10 Oct 2025 15:00:00 GMT",
+    "utc": "2025-10-10T15:00:00.000Z"
+  },
+  {
+    "id": "541686",
+    "teams": [
+      {
+        "name": "Akave Esports GC",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "KRÜ BLAZE",
+        "country": "cl",
+        "score": null
+      }
+    ],
+    "status": "TBD",
+    "event": "Regional Final–Main Event",
+    "tournament": "Game Changers 2025: LATAM Main Event",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "",
+    "timestamp": null,
+    "utcDate": "Invalid Date",
+    "utc": null
+  },
+  {
+    "id": "534748",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Grand Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 5d",
+    "timestamp": 1760198400,
+    "utcDate": "Sat, 11 Oct 2025 16:00:00 GMT",
+    "utc": "2025-10-11T16:00:00.000Z"
+  },
+  {
+    "id": "540553",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "TBD",
+    "event": "Main Event–Grand Final",
+    "tournament": "Game Changers 2025: Americas Last Chance Qualifier",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "",
+    "timestamp": null,
+    "utcDate": "Invalid Date",
+    "utc": null
+  },
+  {
+    "id": "542200",
+    "teams": [
+      {
+        "name": "Bilibili Gaming",
+        "country": "cn",
+        "score": null
+      },
+      {
+        "name": "MIBR",
+        "country": "br",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Opening (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "7h 21m",
+    "timestamp": 1757923200,
+    "utcDate": "Mon, 15 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-15T08:00:00.000Z"
+  },
+  {
+    "id": "542201",
+    "teams": [
+      {
+        "name": "Rex Regum Qeon",
+        "country": "id",
+        "score": null
+      },
+      {
+        "name": "FNATIC",
+        "country": "eu",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Opening (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "10h 21m",
+    "timestamp": 1757934000,
+    "utcDate": "Mon, 15 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-15T11:00:00.000Z"
+  },
+  {
+    "id": "542197",
+    "teams": [
+      {
+        "name": "Paper Rex",
+        "country": "sg",
+        "score": null
+      },
+      {
+        "name": "GIANTX",
+        "country": "eu",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2d 7h",
+    "timestamp": 1758096000,
+    "utcDate": "Wed, 17 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-17T08:00:00.000Z"
+  },
+  {
+    "id": "542202",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2d 10h",
+    "timestamp": 1758106800,
+    "utcDate": "Wed, 17 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-17T11:00:00.000Z"
+  },
+  {
+    "id": "542208",
+    "teams": [
+      {
+        "name": "DRX",
+        "country": "kr",
+        "score": null
+      },
+      {
+        "name": "NRG",
+        "country": "us",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "3d 7h",
+    "timestamp": 1758182400,
+    "utcDate": "Thu, 18 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-18T08:00:00.000Z"
+  },
+  {
+    "id": "542213",
+    "teams": [
+      {
+        "name": "Team Heretics",
+        "country": "eu",
+        "score": null
+      },
+      {
+        "name": "T1",
+        "country": "kr",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "3d 10h",
+    "timestamp": 1758193200,
+    "utcDate": "Thu, 18 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-18T11:00:00.000Z"
+  },
+  {
+    "id": "542198",
+    "teams": [
+      {
+        "name": "Xi Lai Gaming",
+        "country": "cn",
+        "score": null
+      },
+      {
+        "name": "Sentinels",
+        "country": "us",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "4d 7h",
+    "timestamp": 1758268800,
+    "utcDate": "Fri, 19 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-19T08:00:00.000Z"
+  },
+  {
+    "id": "542203",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "4d 10h",
+    "timestamp": 1758279600,
+    "utcDate": "Fri, 19 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-19T11:00:00.000Z"
+  },
+  {
+    "id": "542209",
+    "teams": [
+      {
+        "name": "Team Liquid",
+        "country": "eu",
+        "score": null
+      },
+      {
+        "name": "EDward Gaming",
+        "country": "cn",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "5d 7h",
+    "timestamp": 1758355200,
+    "utcDate": "Sat, 20 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-20T08:00:00.000Z"
+  },
+  {
+    "id": "542214",
+    "teams": [
+      {
+        "name": "G2 Esports",
+        "country": "us",
+        "score": null
+      },
+      {
+        "name": "Dragon Ranger Gaming",
+        "country": "cn",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "5d 10h",
+    "timestamp": 1758366000,
+    "utcDate": "Sat, 20 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-20T11:00:00.000Z"
+  },
+  {
+    "id": "542199",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "6d 7h",
+    "timestamp": 1758441600,
+    "utcDate": "Sun, 21 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-21T08:00:00.000Z"
+  },
+  {
+    "id": "542204",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "6d 10h",
+    "timestamp": 1758452400,
+    "utcDate": "Sun, 21 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-21T11:00:00.000Z"
+  },
+  {
+    "id": "542210",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 0d",
+    "timestamp": 1758528000,
+    "utcDate": "Mon, 22 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-22T08:00:00.000Z"
+  },
+  {
+    "id": "542215",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 0d",
+    "timestamp": 1758538800,
+    "utcDate": "Mon, 22 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-22T11:00:00.000Z"
+  },
+  {
+    "id": "542264",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 3d",
+    "timestamp": 1758787200,
+    "utcDate": "Thu, 25 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-25T08:00:00.000Z"
+  },
+  {
+    "id": "542265",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 3d",
+    "timestamp": 1758798000,
+    "utcDate": "Thu, 25 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-25T11:00:00.000Z"
+  },
+  {
+    "id": "542266",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 4d",
+    "timestamp": 1758873600,
+    "utcDate": "Fri, 26 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-26T08:00:00.000Z"
+  },
+  {
+    "id": "542267",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 4d",
+    "timestamp": 1758884400,
+    "utcDate": "Fri, 26 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-26T11:00:00.000Z"
+  },
+  {
+    "id": "542273",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 1",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 5d",
+    "timestamp": 1758960000,
+    "utcDate": "Sat, 27 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-27T08:00:00.000Z"
+  },
+  {
+    "id": "542274",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 1",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 5d",
+    "timestamp": 1758970800,
+    "utcDate": "Sat, 27 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-27T11:00:00.000Z"
+  },
+  {
+    "id": "542268",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Semifinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 6d",
+    "timestamp": 1759046400,
+    "utcDate": "Sun, 28 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-28T08:00:00.000Z"
+  },
+  {
+    "id": "542269",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Semifinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 6d",
+    "timestamp": 1759057200,
+    "utcDate": "Sun, 28 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-28T11:00:00.000Z"
+  },
+  {
+    "id": "542277",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 2",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 0d",
+    "timestamp": 1759132800,
+    "utcDate": "Mon, 29 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-29T08:00:00.000Z"
+  },
+  {
+    "id": "542276",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 2",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 0d",
+    "timestamp": 1759143600,
+    "utcDate": "Mon, 29 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-29T11:00:00.000Z"
+  },
+  {
+    "id": "542270",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 4d",
+    "timestamp": 1759471200,
+    "utcDate": "Fri, 03 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-03T06:00:00.000Z"
+  },
+  {
+    "id": "542278",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 3",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 4d",
+    "timestamp": 1759482000,
+    "utcDate": "Fri, 03 Oct 2025 09:00:00 GMT",
+    "utc": "2025-10-03T09:00:00.000Z"
+  },
+  {
+    "id": "542279",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 5d",
+    "timestamp": 1759557600,
+    "utcDate": "Sat, 04 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-04T06:00:00.000Z"
+  },
+  {
+    "id": "542272",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Grand Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 6d",
+    "timestamp": 1759644000,
+    "utcDate": "Sun, 05 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-05T06:00:00.000Z"
+  },
+  {
+    "id": "534747",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Upper Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 3d",
+    "timestamp": 1760022000,
+    "utcDate": "Thu, 09 Oct 2025 15:00:00 GMT",
+    "utc": "2025-10-09T15:00:00.000Z"
+  },
+  {
+    "id": "534753",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Lower Round 3",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 3d",
+    "timestamp": 1760032800,
+    "utcDate": "Thu, 09 Oct 2025 18:00:00 GMT",
+    "utc": "2025-10-09T18:00:00.000Z"
+  },
+  {
+    "id": "534754",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Lower Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 4d",
+    "timestamp": 1760108400,
+    "utcDate": "Fri, 10 Oct 2025 15:00:00 GMT",
+    "utc": "2025-10-10T15:00:00.000Z"
+  },
+  {
+    "id": "541686",
+    "teams": [
+      {
+        "name": "Akave Esports GC",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "KRÜ BLAZE",
+        "country": "cl",
+        "score": null
+      }
+    ],
+    "status": "TBD",
+    "event": "Regional Final–Main Event",
+    "tournament": "Game Changers 2025: LATAM Main Event",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "",
+    "timestamp": null,
+    "utcDate": "Invalid Date",
+    "utc": null
+  },
+  {
+    "id": "534748",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Grand Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 5d",
+    "timestamp": 1760198400,
+    "utcDate": "Sat, 11 Oct 2025 16:00:00 GMT",
+    "utc": "2025-10-11T16:00:00.000Z"
+  },
+  {
+    "id": "540553",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "TBD",
+    "event": "Main Event–Grand Final",
+    "tournament": "Game Changers 2025: Americas Last Chance Qualifier",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "",
+    "timestamp": null,
+    "utcDate": "Invalid Date",
+    "utc": null
+  },
+  {
+    "id": "542200",
+    "teams": [
+      {
+        "name": "Bilibili Gaming",
+        "country": "cn",
+        "score": null
+      },
+      {
+        "name": "MIBR",
+        "country": "br",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Opening (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "7h 21m",
+    "timestamp": 1757923200,
+    "utcDate": "Mon, 15 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-15T08:00:00.000Z"
+  },
+  {
+    "id": "542201",
+    "teams": [
+      {
+        "name": "Rex Regum Qeon",
+        "country": "id",
+        "score": null
+      },
+      {
+        "name": "FNATIC",
+        "country": "eu",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Opening (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "10h 21m",
+    "timestamp": 1757934000,
+    "utcDate": "Mon, 15 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-15T11:00:00.000Z"
+  },
+  {
+    "id": "542197",
+    "teams": [
+      {
+        "name": "Paper Rex",
+        "country": "sg",
+        "score": null
+      },
+      {
+        "name": "GIANTX",
+        "country": "eu",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2d 7h",
+    "timestamp": 1758096000,
+    "utcDate": "Wed, 17 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-17T08:00:00.000Z"
+  },
+  {
+    "id": "542202",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2d 10h",
+    "timestamp": 1758106800,
+    "utcDate": "Wed, 17 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-17T11:00:00.000Z"
+  },
+  {
+    "id": "542208",
+    "teams": [
+      {
+        "name": "DRX",
+        "country": "kr",
+        "score": null
+      },
+      {
+        "name": "NRG",
+        "country": "us",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "3d 7h",
+    "timestamp": 1758182400,
+    "utcDate": "Thu, 18 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-18T08:00:00.000Z"
+  },
+  {
+    "id": "542213",
+    "teams": [
+      {
+        "name": "Team Heretics",
+        "country": "eu",
+        "score": null
+      },
+      {
+        "name": "T1",
+        "country": "kr",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "3d 10h",
+    "timestamp": 1758193200,
+    "utcDate": "Thu, 18 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-18T11:00:00.000Z"
+  },
+  {
+    "id": "542198",
+    "teams": [
+      {
+        "name": "Xi Lai Gaming",
+        "country": "cn",
+        "score": null
+      },
+      {
+        "name": "Sentinels",
+        "country": "us",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "4d 7h",
+    "timestamp": 1758268800,
+    "utcDate": "Fri, 19 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-19T08:00:00.000Z"
+  },
+  {
+    "id": "542203",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "4d 10h",
+    "timestamp": 1758279600,
+    "utcDate": "Fri, 19 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-19T11:00:00.000Z"
+  },
+  {
+    "id": "542209",
+    "teams": [
+      {
+        "name": "Team Liquid",
+        "country": "eu",
+        "score": null
+      },
+      {
+        "name": "EDward Gaming",
+        "country": "cn",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "5d 7h",
+    "timestamp": 1758355200,
+    "utcDate": "Sat, 20 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-20T08:00:00.000Z"
+  },
+  {
+    "id": "542214",
+    "teams": [
+      {
+        "name": "G2 Esports",
+        "country": "us",
+        "score": null
+      },
+      {
+        "name": "Dragon Ranger Gaming",
+        "country": "cn",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "5d 10h",
+    "timestamp": 1758366000,
+    "utcDate": "Sat, 20 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-20T11:00:00.000Z"
+  },
+  {
+    "id": "542199",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "6d 7h",
+    "timestamp": 1758441600,
+    "utcDate": "Sun, 21 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-21T08:00:00.000Z"
+  },
+  {
+    "id": "542204",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "6d 10h",
+    "timestamp": 1758452400,
+    "utcDate": "Sun, 21 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-21T11:00:00.000Z"
+  },
+  {
+    "id": "542210",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 0d",
+    "timestamp": 1758528000,
+    "utcDate": "Mon, 22 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-22T08:00:00.000Z"
+  },
+  {
+    "id": "542215",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 0d",
+    "timestamp": 1758538800,
+    "utcDate": "Mon, 22 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-22T11:00:00.000Z"
+  },
+  {
+    "id": "542264",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 3d",
+    "timestamp": 1758787200,
+    "utcDate": "Thu, 25 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-25T08:00:00.000Z"
+  },
+  {
+    "id": "542265",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 3d",
+    "timestamp": 1758798000,
+    "utcDate": "Thu, 25 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-25T11:00:00.000Z"
+  },
+  {
+    "id": "542266",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 4d",
+    "timestamp": 1758873600,
+    "utcDate": "Fri, 26 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-26T08:00:00.000Z"
+  },
+  {
+    "id": "542267",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 4d",
+    "timestamp": 1758884400,
+    "utcDate": "Fri, 26 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-26T11:00:00.000Z"
+  },
+  {
+    "id": "542273",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 1",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 5d",
+    "timestamp": 1758960000,
+    "utcDate": "Sat, 27 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-27T08:00:00.000Z"
+  },
+  {
+    "id": "542274",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 1",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 5d",
+    "timestamp": 1758970800,
+    "utcDate": "Sat, 27 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-27T11:00:00.000Z"
+  },
+  {
+    "id": "542268",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Semifinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 6d",
+    "timestamp": 1759046400,
+    "utcDate": "Sun, 28 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-28T08:00:00.000Z"
+  },
+  {
+    "id": "542269",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Semifinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 6d",
+    "timestamp": 1759057200,
+    "utcDate": "Sun, 28 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-28T11:00:00.000Z"
+  },
+  {
+    "id": "542277",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 2",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 0d",
+    "timestamp": 1759132800,
+    "utcDate": "Mon, 29 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-29T08:00:00.000Z"
+  },
+  {
+    "id": "542276",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 2",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 0d",
+    "timestamp": 1759143600,
+    "utcDate": "Mon, 29 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-29T11:00:00.000Z"
+  },
+  {
+    "id": "542270",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 4d",
+    "timestamp": 1759471200,
+    "utcDate": "Fri, 03 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-03T06:00:00.000Z"
+  },
+  {
+    "id": "542278",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 3",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 4d",
+    "timestamp": 1759482000,
+    "utcDate": "Fri, 03 Oct 2025 09:00:00 GMT",
+    "utc": "2025-10-03T09:00:00.000Z"
+  },
+  {
+    "id": "542279",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 5d",
+    "timestamp": 1759557600,
+    "utcDate": "Sat, 04 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-04T06:00:00.000Z"
+  },
+  {
+    "id": "542272",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Grand Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 6d",
+    "timestamp": 1759644000,
+    "utcDate": "Sun, 05 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-05T06:00:00.000Z"
+  },
+  {
+    "id": "534747",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Upper Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 3d",
+    "timestamp": 1760022000,
+    "utcDate": "Thu, 09 Oct 2025 15:00:00 GMT",
+    "utc": "2025-10-09T15:00:00.000Z"
+  },
+  {
+    "id": "534753",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Lower Round 3",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 3d",
+    "timestamp": 1760032800,
+    "utcDate": "Thu, 09 Oct 2025 18:00:00 GMT",
+    "utc": "2025-10-09T18:00:00.000Z"
+  },
+  {
+    "id": "534754",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Lower Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 4d",
+    "timestamp": 1760108400,
+    "utcDate": "Fri, 10 Oct 2025 15:00:00 GMT",
+    "utc": "2025-10-10T15:00:00.000Z"
+  },
+  {
+    "id": "541686",
+    "teams": [
+      {
+        "name": "Akave Esports GC",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "KRÜ BLAZE",
+        "country": "cl",
+        "score": null
+      }
+    ],
+    "status": "TBD",
+    "event": "Regional Final–Main Event",
+    "tournament": "Game Changers 2025: LATAM Main Event",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "",
+    "timestamp": null,
+    "utcDate": "Invalid Date",
+    "utc": null
+  },
+  {
+    "id": "534748",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Grand Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 5d",
+    "timestamp": 1760198400,
+    "utcDate": "Sat, 11 Oct 2025 16:00:00 GMT",
+    "utc": "2025-10-11T16:00:00.000Z"
+  },
+  {
+    "id": "540553",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "TBD",
+    "event": "Main Event–Grand Final",
+    "tournament": "Game Changers 2025: Americas Last Chance Qualifier",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "",
+    "timestamp": null,
+    "utcDate": "Invalid Date",
+    "utc": null
+  },
+  {
+    "id": "542200",
+    "teams": [
+      {
+        "name": "Bilibili Gaming",
+        "country": "cn",
+        "score": null
+      },
+      {
+        "name": "MIBR",
+        "country": "br",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Opening (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "7h 21m",
+    "timestamp": 1757923200,
+    "utcDate": "Mon, 15 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-15T08:00:00.000Z"
+  },
+  {
+    "id": "542201",
+    "teams": [
+      {
+        "name": "Rex Regum Qeon",
+        "country": "id",
+        "score": null
+      },
+      {
+        "name": "FNATIC",
+        "country": "eu",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Opening (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "10h 21m",
+    "timestamp": 1757934000,
+    "utcDate": "Mon, 15 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-15T11:00:00.000Z"
+  },
+  {
+    "id": "542197",
+    "teams": [
+      {
+        "name": "Paper Rex",
+        "country": "sg",
+        "score": null
+      },
+      {
+        "name": "GIANTX",
+        "country": "eu",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2d 7h",
+    "timestamp": 1758096000,
+    "utcDate": "Wed, 17 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-17T08:00:00.000Z"
+  },
+  {
+    "id": "542202",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2d 10h",
+    "timestamp": 1758106800,
+    "utcDate": "Wed, 17 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-17T11:00:00.000Z"
+  },
+  {
+    "id": "542208",
+    "teams": [
+      {
+        "name": "DRX",
+        "country": "kr",
+        "score": null
+      },
+      {
+        "name": "NRG",
+        "country": "us",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "3d 7h",
+    "timestamp": 1758182400,
+    "utcDate": "Thu, 18 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-18T08:00:00.000Z"
+  },
+  {
+    "id": "542213",
+    "teams": [
+      {
+        "name": "Team Heretics",
+        "country": "eu",
+        "score": null
+      },
+      {
+        "name": "T1",
+        "country": "kr",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "3d 10h",
+    "timestamp": 1758193200,
+    "utcDate": "Thu, 18 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-18T11:00:00.000Z"
+  },
+  {
+    "id": "542198",
+    "teams": [
+      {
+        "name": "Xi Lai Gaming",
+        "country": "cn",
+        "score": null
+      },
+      {
+        "name": "Sentinels",
+        "country": "us",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "4d 7h",
+    "timestamp": 1758268800,
+    "utcDate": "Fri, 19 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-19T08:00:00.000Z"
+  },
+  {
+    "id": "542203",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "4d 10h",
+    "timestamp": 1758279600,
+    "utcDate": "Fri, 19 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-19T11:00:00.000Z"
+  },
+  {
+    "id": "542209",
+    "teams": [
+      {
+        "name": "Team Liquid",
+        "country": "eu",
+        "score": null
+      },
+      {
+        "name": "EDward Gaming",
+        "country": "cn",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "5d 7h",
+    "timestamp": 1758355200,
+    "utcDate": "Sat, 20 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-20T08:00:00.000Z"
+  },
+  {
+    "id": "542214",
+    "teams": [
+      {
+        "name": "G2 Esports",
+        "country": "us",
+        "score": null
+      },
+      {
+        "name": "Dragon Ranger Gaming",
+        "country": "cn",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "5d 10h",
+    "timestamp": 1758366000,
+    "utcDate": "Sat, 20 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-20T11:00:00.000Z"
+  },
+  {
+    "id": "542199",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "6d 7h",
+    "timestamp": 1758441600,
+    "utcDate": "Sun, 21 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-21T08:00:00.000Z"
+  },
+  {
+    "id": "542204",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "6d 10h",
+    "timestamp": 1758452400,
+    "utcDate": "Sun, 21 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-21T11:00:00.000Z"
+  },
+  {
+    "id": "542210",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 0d",
+    "timestamp": 1758528000,
+    "utcDate": "Mon, 22 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-22T08:00:00.000Z"
+  },
+  {
+    "id": "542215",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 0d",
+    "timestamp": 1758538800,
+    "utcDate": "Mon, 22 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-22T11:00:00.000Z"
+  },
+  {
+    "id": "542264",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 3d",
+    "timestamp": 1758787200,
+    "utcDate": "Thu, 25 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-25T08:00:00.000Z"
+  },
+  {
+    "id": "542265",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 3d",
+    "timestamp": 1758798000,
+    "utcDate": "Thu, 25 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-25T11:00:00.000Z"
+  },
+  {
+    "id": "542266",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 4d",
+    "timestamp": 1758873600,
+    "utcDate": "Fri, 26 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-26T08:00:00.000Z"
+  },
+  {
+    "id": "542267",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 4d",
+    "timestamp": 1758884400,
+    "utcDate": "Fri, 26 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-26T11:00:00.000Z"
+  },
+  {
+    "id": "542273",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 1",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 5d",
+    "timestamp": 1758960000,
+    "utcDate": "Sat, 27 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-27T08:00:00.000Z"
+  },
+  {
+    "id": "542274",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 1",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 5d",
+    "timestamp": 1758970800,
+    "utcDate": "Sat, 27 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-27T11:00:00.000Z"
+  },
+  {
+    "id": "542268",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Semifinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 6d",
+    "timestamp": 1759046400,
+    "utcDate": "Sun, 28 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-28T08:00:00.000Z"
+  },
+  {
+    "id": "542269",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Semifinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 6d",
+    "timestamp": 1759057200,
+    "utcDate": "Sun, 28 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-28T11:00:00.000Z"
+  },
+  {
+    "id": "542277",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 2",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 0d",
+    "timestamp": 1759132800,
+    "utcDate": "Mon, 29 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-29T08:00:00.000Z"
+  },
+  {
+    "id": "542276",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 2",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 0d",
+    "timestamp": 1759143600,
+    "utcDate": "Mon, 29 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-29T11:00:00.000Z"
+  },
+  {
+    "id": "542270",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 4d",
+    "timestamp": 1759471200,
+    "utcDate": "Fri, 03 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-03T06:00:00.000Z"
+  },
+  {
+    "id": "542278",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 3",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 4d",
+    "timestamp": 1759482000,
+    "utcDate": "Fri, 03 Oct 2025 09:00:00 GMT",
+    "utc": "2025-10-03T09:00:00.000Z"
+  },
+  {
+    "id": "542279",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 5d",
+    "timestamp": 1759557600,
+    "utcDate": "Sat, 04 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-04T06:00:00.000Z"
+  },
+  {
+    "id": "542272",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Grand Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 6d",
+    "timestamp": 1759644000,
+    "utcDate": "Sun, 05 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-05T06:00:00.000Z"
+  },
+  {
+    "id": "534747",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Upper Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 3d",
+    "timestamp": 1760022000,
+    "utcDate": "Thu, 09 Oct 2025 15:00:00 GMT",
+    "utc": "2025-10-09T15:00:00.000Z"
+  },
+  {
+    "id": "534753",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Lower Round 3",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 3d",
+    "timestamp": 1760032800,
+    "utcDate": "Thu, 09 Oct 2025 18:00:00 GMT",
+    "utc": "2025-10-09T18:00:00.000Z"
+  },
+  {
+    "id": "534754",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Lower Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 4d",
+    "timestamp": 1760108400,
+    "utcDate": "Fri, 10 Oct 2025 15:00:00 GMT",
+    "utc": "2025-10-10T15:00:00.000Z"
+  },
+  {
+    "id": "541686",
+    "teams": [
+      {
+        "name": "Akave Esports GC",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "KRÜ BLAZE",
+        "country": "cl",
+        "score": null
+      }
+    ],
+    "status": "TBD",
+    "event": "Regional Final–Main Event",
+    "tournament": "Game Changers 2025: LATAM Main Event",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "",
+    "timestamp": null,
+    "utcDate": "Invalid Date",
+    "utc": null
+  },
+  {
+    "id": "534748",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Grand Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 5d",
+    "timestamp": 1760198400,
+    "utcDate": "Sat, 11 Oct 2025 16:00:00 GMT",
+    "utc": "2025-10-11T16:00:00.000Z"
+  },
+  {
+    "id": "540553",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "TBD",
+    "event": "Main Event–Grand Final",
+    "tournament": "Game Changers 2025: Americas Last Chance Qualifier",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "",
+    "timestamp": null,
+    "utcDate": "Invalid Date",
+    "utc": null
+  },
+  {
+    "id": "542200",
+    "teams": [
+      {
+        "name": "Bilibili Gaming",
+        "country": "cn",
+        "score": null
+      },
+      {
+        "name": "MIBR",
+        "country": "br",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Opening (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "7h 21m",
+    "timestamp": 1757923200,
+    "utcDate": "Mon, 15 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-15T08:00:00.000Z"
+  },
+  {
+    "id": "542201",
+    "teams": [
+      {
+        "name": "Rex Regum Qeon",
+        "country": "id",
+        "score": null
+      },
+      {
+        "name": "FNATIC",
+        "country": "eu",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Opening (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "10h 21m",
+    "timestamp": 1757934000,
+    "utcDate": "Mon, 15 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-15T11:00:00.000Z"
+  },
+  {
+    "id": "542197",
+    "teams": [
+      {
+        "name": "Paper Rex",
+        "country": "sg",
+        "score": null
+      },
+      {
+        "name": "GIANTX",
+        "country": "eu",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2d 7h",
+    "timestamp": 1758096000,
+    "utcDate": "Wed, 17 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-17T08:00:00.000Z"
+  },
+  {
+    "id": "542202",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2d 10h",
+    "timestamp": 1758106800,
+    "utcDate": "Wed, 17 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-17T11:00:00.000Z"
+  },
+  {
+    "id": "542208",
+    "teams": [
+      {
+        "name": "DRX",
+        "country": "kr",
+        "score": null
+      },
+      {
+        "name": "NRG",
+        "country": "us",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "3d 7h",
+    "timestamp": 1758182400,
+    "utcDate": "Thu, 18 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-18T08:00:00.000Z"
+  },
+  {
+    "id": "542213",
+    "teams": [
+      {
+        "name": "Team Heretics",
+        "country": "eu",
+        "score": null
+      },
+      {
+        "name": "T1",
+        "country": "kr",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "3d 10h",
+    "timestamp": 1758193200,
+    "utcDate": "Thu, 18 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-18T11:00:00.000Z"
+  },
+  {
+    "id": "542198",
+    "teams": [
+      {
+        "name": "Xi Lai Gaming",
+        "country": "cn",
+        "score": null
+      },
+      {
+        "name": "Sentinels",
+        "country": "us",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "4d 7h",
+    "timestamp": 1758268800,
+    "utcDate": "Fri, 19 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-19T08:00:00.000Z"
+  },
+  {
+    "id": "542203",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "4d 10h",
+    "timestamp": 1758279600,
+    "utcDate": "Fri, 19 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-19T11:00:00.000Z"
+  },
+  {
+    "id": "542209",
+    "teams": [
+      {
+        "name": "Team Liquid",
+        "country": "eu",
+        "score": null
+      },
+      {
+        "name": "EDward Gaming",
+        "country": "cn",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "5d 7h",
+    "timestamp": 1758355200,
+    "utcDate": "Sat, 20 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-20T08:00:00.000Z"
+  },
+  {
+    "id": "542214",
+    "teams": [
+      {
+        "name": "G2 Esports",
+        "country": "us",
+        "score": null
+      },
+      {
+        "name": "Dragon Ranger Gaming",
+        "country": "cn",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "5d 10h",
+    "timestamp": 1758366000,
+    "utcDate": "Sat, 20 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-20T11:00:00.000Z"
+  },
+  {
+    "id": "542199",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "6d 7h",
+    "timestamp": 1758441600,
+    "utcDate": "Sun, 21 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-21T08:00:00.000Z"
+  },
+  {
+    "id": "542204",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "6d 10h",
+    "timestamp": 1758452400,
+    "utcDate": "Sun, 21 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-21T11:00:00.000Z"
+  },
+  {
+    "id": "542210",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 0d",
+    "timestamp": 1758528000,
+    "utcDate": "Mon, 22 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-22T08:00:00.000Z"
+  },
+  {
+    "id": "542215",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 0d",
+    "timestamp": 1758538800,
+    "utcDate": "Mon, 22 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-22T11:00:00.000Z"
+  },
+  {
+    "id": "542264",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 3d",
+    "timestamp": 1758787200,
+    "utcDate": "Thu, 25 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-25T08:00:00.000Z"
+  },
+  {
+    "id": "542265",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 3d",
+    "timestamp": 1758798000,
+    "utcDate": "Thu, 25 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-25T11:00:00.000Z"
+  },
+  {
+    "id": "542266",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 4d",
+    "timestamp": 1758873600,
+    "utcDate": "Fri, 26 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-26T08:00:00.000Z"
+  },
+  {
+    "id": "542267",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 4d",
+    "timestamp": 1758884400,
+    "utcDate": "Fri, 26 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-26T11:00:00.000Z"
+  },
+  {
+    "id": "542273",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 1",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 5d",
+    "timestamp": 1758960000,
+    "utcDate": "Sat, 27 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-27T08:00:00.000Z"
+  },
+  {
+    "id": "542274",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 1",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 5d",
+    "timestamp": 1758970800,
+    "utcDate": "Sat, 27 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-27T11:00:00.000Z"
+  },
+  {
+    "id": "542268",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Semifinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 6d",
+    "timestamp": 1759046400,
+    "utcDate": "Sun, 28 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-28T08:00:00.000Z"
+  },
+  {
+    "id": "542269",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Semifinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 6d",
+    "timestamp": 1759057200,
+    "utcDate": "Sun, 28 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-28T11:00:00.000Z"
+  },
+  {
+    "id": "542277",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 2",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 0d",
+    "timestamp": 1759132800,
+    "utcDate": "Mon, 29 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-29T08:00:00.000Z"
+  },
+  {
+    "id": "542276",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 2",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 0d",
+    "timestamp": 1759143600,
+    "utcDate": "Mon, 29 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-29T11:00:00.000Z"
+  },
+  {
+    "id": "542270",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 4d",
+    "timestamp": 1759471200,
+    "utcDate": "Fri, 03 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-03T06:00:00.000Z"
+  },
+  {
+    "id": "542278",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 3",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 4d",
+    "timestamp": 1759482000,
+    "utcDate": "Fri, 03 Oct 2025 09:00:00 GMT",
+    "utc": "2025-10-03T09:00:00.000Z"
+  },
+  {
+    "id": "542279",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 5d",
+    "timestamp": 1759557600,
+    "utcDate": "Sat, 04 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-04T06:00:00.000Z"
+  },
+  {
+    "id": "542272",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Grand Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 6d",
+    "timestamp": 1759644000,
+    "utcDate": "Sun, 05 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-05T06:00:00.000Z"
+  },
+  {
+    "id": "534747",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Upper Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 3d",
+    "timestamp": 1760022000,
+    "utcDate": "Thu, 09 Oct 2025 15:00:00 GMT",
+    "utc": "2025-10-09T15:00:00.000Z"
+  },
+  {
+    "id": "534753",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Lower Round 3",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 3d",
+    "timestamp": 1760032800,
+    "utcDate": "Thu, 09 Oct 2025 18:00:00 GMT",
+    "utc": "2025-10-09T18:00:00.000Z"
+  },
+  {
+    "id": "534754",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Lower Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 4d",
+    "timestamp": 1760108400,
+    "utcDate": "Fri, 10 Oct 2025 15:00:00 GMT",
+    "utc": "2025-10-10T15:00:00.000Z"
+  },
+  {
+    "id": "541686",
+    "teams": [
+      {
+        "name": "Akave Esports GC",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "KRÜ BLAZE",
+        "country": "cl",
+        "score": null
+      }
+    ],
+    "status": "TBD",
+    "event": "Regional Final–Main Event",
+    "tournament": "Game Changers 2025: LATAM Main Event",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "",
+    "timestamp": null,
+    "utcDate": "Invalid Date",
+    "utc": null
+  },
+  {
+    "id": "534748",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Grand Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 5d",
+    "timestamp": 1760198400,
+    "utcDate": "Sat, 11 Oct 2025 16:00:00 GMT",
+    "utc": "2025-10-11T16:00:00.000Z"
+  },
+  {
+    "id": "540553",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "TBD",
+    "event": "Main Event–Grand Final",
+    "tournament": "Game Changers 2025: Americas Last Chance Qualifier",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "",
+    "timestamp": null,
+    "utcDate": "Invalid Date",
+    "utc": null
+  },
+  {
+    "id": "542200",
+    "teams": [
+      {
+        "name": "Bilibili Gaming",
+        "country": "cn",
+        "score": null
+      },
+      {
+        "name": "MIBR",
+        "country": "br",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Opening (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "7h 21m",
+    "timestamp": 1757923200,
+    "utcDate": "Mon, 15 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-15T08:00:00.000Z"
+  },
+  {
+    "id": "542201",
+    "teams": [
+      {
+        "name": "Rex Regum Qeon",
+        "country": "id",
+        "score": null
+      },
+      {
+        "name": "FNATIC",
+        "country": "eu",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Opening (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "10h 21m",
+    "timestamp": 1757934000,
+    "utcDate": "Mon, 15 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-15T11:00:00.000Z"
+  },
+  {
+    "id": "542197",
+    "teams": [
+      {
+        "name": "Paper Rex",
+        "country": "sg",
+        "score": null
+      },
+      {
+        "name": "GIANTX",
+        "country": "eu",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2d 7h",
+    "timestamp": 1758096000,
+    "utcDate": "Wed, 17 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-17T08:00:00.000Z"
+  },
+  {
+    "id": "542202",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2d 10h",
+    "timestamp": 1758106800,
+    "utcDate": "Wed, 17 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-17T11:00:00.000Z"
+  },
+  {
+    "id": "542208",
+    "teams": [
+      {
+        "name": "DRX",
+        "country": "kr",
+        "score": null
+      },
+      {
+        "name": "NRG",
+        "country": "us",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "3d 7h",
+    "timestamp": 1758182400,
+    "utcDate": "Thu, 18 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-18T08:00:00.000Z"
+  },
+  {
+    "id": "542213",
+    "teams": [
+      {
+        "name": "Team Heretics",
+        "country": "eu",
+        "score": null
+      },
+      {
+        "name": "T1",
+        "country": "kr",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "3d 10h",
+    "timestamp": 1758193200,
+    "utcDate": "Thu, 18 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-18T11:00:00.000Z"
+  },
+  {
+    "id": "542198",
+    "teams": [
+      {
+        "name": "Xi Lai Gaming",
+        "country": "cn",
+        "score": null
+      },
+      {
+        "name": "Sentinels",
+        "country": "us",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "4d 7h",
+    "timestamp": 1758268800,
+    "utcDate": "Fri, 19 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-19T08:00:00.000Z"
+  },
+  {
+    "id": "542203",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "4d 10h",
+    "timestamp": 1758279600,
+    "utcDate": "Fri, 19 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-19T11:00:00.000Z"
+  },
+  {
+    "id": "542209",
+    "teams": [
+      {
+        "name": "Team Liquid",
+        "country": "eu",
+        "score": null
+      },
+      {
+        "name": "EDward Gaming",
+        "country": "cn",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "5d 7h",
+    "timestamp": 1758355200,
+    "utcDate": "Sat, 20 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-20T08:00:00.000Z"
+  },
+  {
+    "id": "542214",
+    "teams": [
+      {
+        "name": "G2 Esports",
+        "country": "us",
+        "score": null
+      },
+      {
+        "name": "Dragon Ranger Gaming",
+        "country": "cn",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "5d 10h",
+    "timestamp": 1758366000,
+    "utcDate": "Sat, 20 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-20T11:00:00.000Z"
+  },
+  {
+    "id": "542199",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "6d 7h",
+    "timestamp": 1758441600,
+    "utcDate": "Sun, 21 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-21T08:00:00.000Z"
+  },
+  {
+    "id": "542204",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "6d 10h",
+    "timestamp": 1758452400,
+    "utcDate": "Sun, 21 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-21T11:00:00.000Z"
+  },
+  {
+    "id": "542210",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 0d",
+    "timestamp": 1758528000,
+    "utcDate": "Mon, 22 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-22T08:00:00.000Z"
+  },
+  {
+    "id": "542215",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 0d",
+    "timestamp": 1758538800,
+    "utcDate": "Mon, 22 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-22T11:00:00.000Z"
+  },
+  {
+    "id": "542264",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 3d",
+    "timestamp": 1758787200,
+    "utcDate": "Thu, 25 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-25T08:00:00.000Z"
+  },
+  {
+    "id": "542265",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 3d",
+    "timestamp": 1758798000,
+    "utcDate": "Thu, 25 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-25T11:00:00.000Z"
+  },
+  {
+    "id": "542266",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 4d",
+    "timestamp": 1758873600,
+    "utcDate": "Fri, 26 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-26T08:00:00.000Z"
+  },
+  {
+    "id": "542267",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 4d",
+    "timestamp": 1758884400,
+    "utcDate": "Fri, 26 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-26T11:00:00.000Z"
+  },
+  {
+    "id": "542273",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 1",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 5d",
+    "timestamp": 1758960000,
+    "utcDate": "Sat, 27 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-27T08:00:00.000Z"
+  },
+  {
+    "id": "542274",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 1",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 5d",
+    "timestamp": 1758970800,
+    "utcDate": "Sat, 27 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-27T11:00:00.000Z"
+  },
+  {
+    "id": "542268",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Semifinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 6d",
+    "timestamp": 1759046400,
+    "utcDate": "Sun, 28 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-28T08:00:00.000Z"
+  },
+  {
+    "id": "542269",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Semifinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 6d",
+    "timestamp": 1759057200,
+    "utcDate": "Sun, 28 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-28T11:00:00.000Z"
+  },
+  {
+    "id": "542277",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 2",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 0d",
+    "timestamp": 1759132800,
+    "utcDate": "Mon, 29 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-29T08:00:00.000Z"
+  },
+  {
+    "id": "542276",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 2",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 0d",
+    "timestamp": 1759143600,
+    "utcDate": "Mon, 29 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-29T11:00:00.000Z"
+  },
+  {
+    "id": "542270",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 4d",
+    "timestamp": 1759471200,
+    "utcDate": "Fri, 03 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-03T06:00:00.000Z"
+  },
+  {
+    "id": "542278",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 3",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 4d",
+    "timestamp": 1759482000,
+    "utcDate": "Fri, 03 Oct 2025 09:00:00 GMT",
+    "utc": "2025-10-03T09:00:00.000Z"
+  },
+  {
+    "id": "542279",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 5d",
+    "timestamp": 1759557600,
+    "utcDate": "Sat, 04 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-04T06:00:00.000Z"
+  },
+  {
+    "id": "542272",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Grand Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 6d",
+    "timestamp": 1759644000,
+    "utcDate": "Sun, 05 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-05T06:00:00.000Z"
+  },
+  {
+    "id": "534747",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Upper Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 3d",
+    "timestamp": 1760022000,
+    "utcDate": "Thu, 09 Oct 2025 15:00:00 GMT",
+    "utc": "2025-10-09T15:00:00.000Z"
+  },
+  {
+    "id": "534753",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Lower Round 3",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 3d",
+    "timestamp": 1760032800,
+    "utcDate": "Thu, 09 Oct 2025 18:00:00 GMT",
+    "utc": "2025-10-09T18:00:00.000Z"
+  },
+  {
+    "id": "534754",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Lower Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 4d",
+    "timestamp": 1760108400,
+    "utcDate": "Fri, 10 Oct 2025 15:00:00 GMT",
+    "utc": "2025-10-10T15:00:00.000Z"
+  },
+  {
+    "id": "541686",
+    "teams": [
+      {
+        "name": "Akave Esports GC",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "KRÜ BLAZE",
+        "country": "cl",
+        "score": null
+      }
+    ],
+    "status": "TBD",
+    "event": "Regional Final–Main Event",
+    "tournament": "Game Changers 2025: LATAM Main Event",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "",
+    "timestamp": null,
+    "utcDate": "Invalid Date",
+    "utc": null
+  },
+  {
+    "id": "534748",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Grand Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 5d",
+    "timestamp": 1760198400,
+    "utcDate": "Sat, 11 Oct 2025 16:00:00 GMT",
+    "utc": "2025-10-11T16:00:00.000Z"
+  },
+  {
+    "id": "540553",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "TBD",
+    "event": "Main Event–Grand Final",
+    "tournament": "Game Changers 2025: Americas Last Chance Qualifier",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "",
+    "timestamp": null,
+    "utcDate": "Invalid Date",
+    "utc": null
+  },
+  {
+    "id": "542200",
+    "teams": [
+      {
+        "name": "Bilibili Gaming",
+        "country": "cn",
+        "score": null
+      },
+      {
+        "name": "MIBR",
+        "country": "br",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Opening (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "7h 21m",
+    "timestamp": 1757923200,
+    "utcDate": "Mon, 15 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-15T08:00:00.000Z"
+  },
+  {
+    "id": "542201",
+    "teams": [
+      {
+        "name": "Rex Regum Qeon",
+        "country": "id",
+        "score": null
+      },
+      {
+        "name": "FNATIC",
+        "country": "eu",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Opening (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "10h 21m",
+    "timestamp": 1757934000,
+    "utcDate": "Mon, 15 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-15T11:00:00.000Z"
+  },
+  {
+    "id": "542197",
+    "teams": [
+      {
+        "name": "Paper Rex",
+        "country": "sg",
+        "score": null
+      },
+      {
+        "name": "GIANTX",
+        "country": "eu",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2d 7h",
+    "timestamp": 1758096000,
+    "utcDate": "Wed, 17 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-17T08:00:00.000Z"
+  },
+  {
+    "id": "542202",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2d 10h",
+    "timestamp": 1758106800,
+    "utcDate": "Wed, 17 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-17T11:00:00.000Z"
+  },
+  {
+    "id": "542208",
+    "teams": [
+      {
+        "name": "DRX",
+        "country": "kr",
+        "score": null
+      },
+      {
+        "name": "NRG",
+        "country": "us",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "3d 7h",
+    "timestamp": 1758182400,
+    "utcDate": "Thu, 18 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-18T08:00:00.000Z"
+  },
+  {
+    "id": "542213",
+    "teams": [
+      {
+        "name": "Team Heretics",
+        "country": "eu",
+        "score": null
+      },
+      {
+        "name": "T1",
+        "country": "kr",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "3d 10h",
+    "timestamp": 1758193200,
+    "utcDate": "Thu, 18 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-18T11:00:00.000Z"
+  },
+  {
+    "id": "542198",
+    "teams": [
+      {
+        "name": "Xi Lai Gaming",
+        "country": "cn",
+        "score": null
+      },
+      {
+        "name": "Sentinels",
+        "country": "us",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "4d 7h",
+    "timestamp": 1758268800,
+    "utcDate": "Fri, 19 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-19T08:00:00.000Z"
+  },
+  {
+    "id": "542203",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "4d 10h",
+    "timestamp": 1758279600,
+    "utcDate": "Fri, 19 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-19T11:00:00.000Z"
+  },
+  {
+    "id": "542209",
+    "teams": [
+      {
+        "name": "Team Liquid",
+        "country": "eu",
+        "score": null
+      },
+      {
+        "name": "EDward Gaming",
+        "country": "cn",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "5d 7h",
+    "timestamp": 1758355200,
+    "utcDate": "Sat, 20 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-20T08:00:00.000Z"
+  },
+  {
+    "id": "542214",
+    "teams": [
+      {
+        "name": "G2 Esports",
+        "country": "us",
+        "score": null
+      },
+      {
+        "name": "Dragon Ranger Gaming",
+        "country": "cn",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "5d 10h",
+    "timestamp": 1758366000,
+    "utcDate": "Sat, 20 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-20T11:00:00.000Z"
+  },
+  {
+    "id": "542199",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "6d 7h",
+    "timestamp": 1758441600,
+    "utcDate": "Sun, 21 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-21T08:00:00.000Z"
+  },
+  {
+    "id": "542204",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "6d 10h",
+    "timestamp": 1758452400,
+    "utcDate": "Sun, 21 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-21T11:00:00.000Z"
+  },
+  {
+    "id": "542210",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 0d",
+    "timestamp": 1758528000,
+    "utcDate": "Mon, 22 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-22T08:00:00.000Z"
+  },
+  {
+    "id": "542215",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 0d",
+    "timestamp": 1758538800,
+    "utcDate": "Mon, 22 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-22T11:00:00.000Z"
+  },
+  {
+    "id": "542264",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 3d",
+    "timestamp": 1758787200,
+    "utcDate": "Thu, 25 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-25T08:00:00.000Z"
+  },
+  {
+    "id": "542265",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 3d",
+    "timestamp": 1758798000,
+    "utcDate": "Thu, 25 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-25T11:00:00.000Z"
+  },
+  {
+    "id": "542266",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 4d",
+    "timestamp": 1758873600,
+    "utcDate": "Fri, 26 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-26T08:00:00.000Z"
+  },
+  {
+    "id": "542267",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 4d",
+    "timestamp": 1758884400,
+    "utcDate": "Fri, 26 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-26T11:00:00.000Z"
+  },
+  {
+    "id": "542273",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 1",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 5d",
+    "timestamp": 1758960000,
+    "utcDate": "Sat, 27 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-27T08:00:00.000Z"
+  },
+  {
+    "id": "542274",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 1",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 5d",
+    "timestamp": 1758970800,
+    "utcDate": "Sat, 27 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-27T11:00:00.000Z"
+  },
+  {
+    "id": "542268",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Semifinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 6d",
+    "timestamp": 1759046400,
+    "utcDate": "Sun, 28 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-28T08:00:00.000Z"
+  },
+  {
+    "id": "542269",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Semifinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 6d",
+    "timestamp": 1759057200,
+    "utcDate": "Sun, 28 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-28T11:00:00.000Z"
+  },
+  {
+    "id": "542277",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 2",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 0d",
+    "timestamp": 1759132800,
+    "utcDate": "Mon, 29 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-29T08:00:00.000Z"
+  },
+  {
+    "id": "542276",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 2",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 0d",
+    "timestamp": 1759143600,
+    "utcDate": "Mon, 29 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-29T11:00:00.000Z"
+  },
+  {
+    "id": "542270",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 4d",
+    "timestamp": 1759471200,
+    "utcDate": "Fri, 03 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-03T06:00:00.000Z"
+  },
+  {
+    "id": "542278",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 3",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 4d",
+    "timestamp": 1759482000,
+    "utcDate": "Fri, 03 Oct 2025 09:00:00 GMT",
+    "utc": "2025-10-03T09:00:00.000Z"
+  },
+  {
+    "id": "542279",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 5d",
+    "timestamp": 1759557600,
+    "utcDate": "Sat, 04 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-04T06:00:00.000Z"
+  },
+  {
+    "id": "542272",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Grand Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 6d",
+    "timestamp": 1759644000,
+    "utcDate": "Sun, 05 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-05T06:00:00.000Z"
+  },
+  {
+    "id": "534747",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Upper Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 3d",
+    "timestamp": 1760022000,
+    "utcDate": "Thu, 09 Oct 2025 15:00:00 GMT",
+    "utc": "2025-10-09T15:00:00.000Z"
+  },
+  {
+    "id": "534753",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Lower Round 3",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 3d",
+    "timestamp": 1760032800,
+    "utcDate": "Thu, 09 Oct 2025 18:00:00 GMT",
+    "utc": "2025-10-09T18:00:00.000Z"
+  },
+  {
+    "id": "534754",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Lower Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 4d",
+    "timestamp": 1760108400,
+    "utcDate": "Fri, 10 Oct 2025 15:00:00 GMT",
+    "utc": "2025-10-10T15:00:00.000Z"
+  },
+  {
+    "id": "541686",
+    "teams": [
+      {
+        "name": "Akave Esports GC",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "KRÜ BLAZE",
+        "country": "cl",
+        "score": null
+      }
+    ],
+    "status": "TBD",
+    "event": "Regional Final–Main Event",
+    "tournament": "Game Changers 2025: LATAM Main Event",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "",
+    "timestamp": null,
+    "utcDate": "Invalid Date",
+    "utc": null
+  },
+  {
+    "id": "534748",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Grand Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 5d",
+    "timestamp": 1760198400,
+    "utcDate": "Sat, 11 Oct 2025 16:00:00 GMT",
+    "utc": "2025-10-11T16:00:00.000Z"
+  },
+  {
+    "id": "540553",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "TBD",
+    "event": "Main Event–Grand Final",
+    "tournament": "Game Changers 2025: Americas Last Chance Qualifier",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "",
+    "timestamp": null,
+    "utcDate": "Invalid Date",
+    "utc": null
+  },
+  {
+    "id": "542200",
+    "teams": [
+      {
+        "name": "Bilibili Gaming",
+        "country": "cn",
+        "score": null
+      },
+      {
+        "name": "MIBR",
+        "country": "br",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Opening (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "7h 21m",
+    "timestamp": 1757923200,
+    "utcDate": "Mon, 15 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-15T08:00:00.000Z"
+  },
+  {
+    "id": "542201",
+    "teams": [
+      {
+        "name": "Rex Regum Qeon",
+        "country": "id",
+        "score": null
+      },
+      {
+        "name": "FNATIC",
+        "country": "eu",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Opening (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "10h 21m",
+    "timestamp": 1757934000,
+    "utcDate": "Mon, 15 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-15T11:00:00.000Z"
+  },
+  {
+    "id": "542197",
+    "teams": [
+      {
+        "name": "Paper Rex",
+        "country": "sg",
+        "score": null
+      },
+      {
+        "name": "GIANTX",
+        "country": "eu",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2d 7h",
+    "timestamp": 1758096000,
+    "utcDate": "Wed, 17 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-17T08:00:00.000Z"
+  },
+  {
+    "id": "542202",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2d 10h",
+    "timestamp": 1758106800,
+    "utcDate": "Wed, 17 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-17T11:00:00.000Z"
+  },
+  {
+    "id": "542208",
+    "teams": [
+      {
+        "name": "DRX",
+        "country": "kr",
+        "score": null
+      },
+      {
+        "name": "NRG",
+        "country": "us",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "3d 7h",
+    "timestamp": 1758182400,
+    "utcDate": "Thu, 18 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-18T08:00:00.000Z"
+  },
+  {
+    "id": "542213",
+    "teams": [
+      {
+        "name": "Team Heretics",
+        "country": "eu",
+        "score": null
+      },
+      {
+        "name": "T1",
+        "country": "kr",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "3d 10h",
+    "timestamp": 1758193200,
+    "utcDate": "Thu, 18 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-18T11:00:00.000Z"
+  },
+  {
+    "id": "542198",
+    "teams": [
+      {
+        "name": "Xi Lai Gaming",
+        "country": "cn",
+        "score": null
+      },
+      {
+        "name": "Sentinels",
+        "country": "us",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "4d 7h",
+    "timestamp": 1758268800,
+    "utcDate": "Fri, 19 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-19T08:00:00.000Z"
+  },
+  {
+    "id": "542203",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "4d 10h",
+    "timestamp": 1758279600,
+    "utcDate": "Fri, 19 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-19T11:00:00.000Z"
+  },
+  {
+    "id": "542209",
+    "teams": [
+      {
+        "name": "Team Liquid",
+        "country": "eu",
+        "score": null
+      },
+      {
+        "name": "EDward Gaming",
+        "country": "cn",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "5d 7h",
+    "timestamp": 1758355200,
+    "utcDate": "Sat, 20 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-20T08:00:00.000Z"
+  },
+  {
+    "id": "542214",
+    "teams": [
+      {
+        "name": "G2 Esports",
+        "country": "us",
+        "score": null
+      },
+      {
+        "name": "Dragon Ranger Gaming",
+        "country": "cn",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "5d 10h",
+    "timestamp": 1758366000,
+    "utcDate": "Sat, 20 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-20T11:00:00.000Z"
+  },
+  {
+    "id": "542199",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "6d 7h",
+    "timestamp": 1758441600,
+    "utcDate": "Sun, 21 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-21T08:00:00.000Z"
+  },
+  {
+    "id": "542204",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "6d 10h",
+    "timestamp": 1758452400,
+    "utcDate": "Sun, 21 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-21T11:00:00.000Z"
+  },
+  {
+    "id": "542210",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 0d",
+    "timestamp": 1758528000,
+    "utcDate": "Mon, 22 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-22T08:00:00.000Z"
+  },
+  {
+    "id": "542215",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 0d",
+    "timestamp": 1758538800,
+    "utcDate": "Mon, 22 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-22T11:00:00.000Z"
+  },
+  {
+    "id": "542264",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 3d",
+    "timestamp": 1758787200,
+    "utcDate": "Thu, 25 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-25T08:00:00.000Z"
+  },
+  {
+    "id": "542265",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 3d",
+    "timestamp": 1758798000,
+    "utcDate": "Thu, 25 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-25T11:00:00.000Z"
+  },
+  {
+    "id": "542266",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 4d",
+    "timestamp": 1758873600,
+    "utcDate": "Fri, 26 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-26T08:00:00.000Z"
+  },
+  {
+    "id": "542267",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 4d",
+    "timestamp": 1758884400,
+    "utcDate": "Fri, 26 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-26T11:00:00.000Z"
+  },
+  {
+    "id": "542273",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 1",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 5d",
+    "timestamp": 1758960000,
+    "utcDate": "Sat, 27 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-27T08:00:00.000Z"
+  },
+  {
+    "id": "542274",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 1",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 5d",
+    "timestamp": 1758970800,
+    "utcDate": "Sat, 27 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-27T11:00:00.000Z"
+  },
+  {
+    "id": "542268",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Semifinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 6d",
+    "timestamp": 1759046400,
+    "utcDate": "Sun, 28 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-28T08:00:00.000Z"
+  },
+  {
+    "id": "542269",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Semifinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 6d",
+    "timestamp": 1759057200,
+    "utcDate": "Sun, 28 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-28T11:00:00.000Z"
+  },
+  {
+    "id": "542277",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 2",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 0d",
+    "timestamp": 1759132800,
+    "utcDate": "Mon, 29 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-29T08:00:00.000Z"
+  },
+  {
+    "id": "542276",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 2",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 0d",
+    "timestamp": 1759143600,
+    "utcDate": "Mon, 29 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-29T11:00:00.000Z"
+  },
+  {
+    "id": "542270",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 4d",
+    "timestamp": 1759471200,
+    "utcDate": "Fri, 03 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-03T06:00:00.000Z"
+  },
+  {
+    "id": "542278",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 3",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 4d",
+    "timestamp": 1759482000,
+    "utcDate": "Fri, 03 Oct 2025 09:00:00 GMT",
+    "utc": "2025-10-03T09:00:00.000Z"
+  },
+  {
+    "id": "542279",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 5d",
+    "timestamp": 1759557600,
+    "utcDate": "Sat, 04 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-04T06:00:00.000Z"
+  },
+  {
+    "id": "542272",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Grand Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 6d",
+    "timestamp": 1759644000,
+    "utcDate": "Sun, 05 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-05T06:00:00.000Z"
+  },
+  {
+    "id": "534747",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Upper Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 3d",
+    "timestamp": 1760022000,
+    "utcDate": "Thu, 09 Oct 2025 15:00:00 GMT",
+    "utc": "2025-10-09T15:00:00.000Z"
+  },
+  {
+    "id": "534753",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Lower Round 3",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 3d",
+    "timestamp": 1760032800,
+    "utcDate": "Thu, 09 Oct 2025 18:00:00 GMT",
+    "utc": "2025-10-09T18:00:00.000Z"
+  },
+  {
+    "id": "534754",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Lower Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 4d",
+    "timestamp": 1760108400,
+    "utcDate": "Fri, 10 Oct 2025 15:00:00 GMT",
+    "utc": "2025-10-10T15:00:00.000Z"
+  },
+  {
+    "id": "541686",
+    "teams": [
+      {
+        "name": "Akave Esports GC",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "KRÜ BLAZE",
+        "country": "cl",
+        "score": null
+      }
+    ],
+    "status": "TBD",
+    "event": "Regional Final–Main Event",
+    "tournament": "Game Changers 2025: LATAM Main Event",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "",
+    "timestamp": null,
+    "utcDate": "Invalid Date",
+    "utc": null
+  },
+  {
+    "id": "534748",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Grand Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 5d",
+    "timestamp": 1760198400,
+    "utcDate": "Sat, 11 Oct 2025 16:00:00 GMT",
+    "utc": "2025-10-11T16:00:00.000Z"
+  },
+  {
+    "id": "540553",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "TBD",
+    "event": "Main Event–Grand Final",
+    "tournament": "Game Changers 2025: Americas Last Chance Qualifier",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "",
+    "timestamp": null,
+    "utcDate": "Invalid Date",
+    "utc": null
+  },
+  {
+    "id": "542200",
+    "teams": [
+      {
+        "name": "Bilibili Gaming",
+        "country": "cn",
+        "score": null
+      },
+      {
+        "name": "MIBR",
+        "country": "br",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Opening (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "7h 21m",
+    "timestamp": 1757923200,
+    "utcDate": "Mon, 15 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-15T08:00:00.000Z"
+  },
+  {
+    "id": "542201",
+    "teams": [
+      {
+        "name": "Rex Regum Qeon",
+        "country": "id",
+        "score": null
+      },
+      {
+        "name": "FNATIC",
+        "country": "eu",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Opening (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "10h 21m",
+    "timestamp": 1757934000,
+    "utcDate": "Mon, 15 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-15T11:00:00.000Z"
+  },
+  {
+    "id": "542197",
+    "teams": [
+      {
+        "name": "Paper Rex",
+        "country": "sg",
+        "score": null
+      },
+      {
+        "name": "GIANTX",
+        "country": "eu",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2d 7h",
+    "timestamp": 1758096000,
+    "utcDate": "Wed, 17 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-17T08:00:00.000Z"
+  },
+  {
+    "id": "542202",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2d 10h",
+    "timestamp": 1758106800,
+    "utcDate": "Wed, 17 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-17T11:00:00.000Z"
+  },
+  {
+    "id": "542208",
+    "teams": [
+      {
+        "name": "DRX",
+        "country": "kr",
+        "score": null
+      },
+      {
+        "name": "NRG",
+        "country": "us",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "3d 7h",
+    "timestamp": 1758182400,
+    "utcDate": "Thu, 18 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-18T08:00:00.000Z"
+  },
+  {
+    "id": "542213",
+    "teams": [
+      {
+        "name": "Team Heretics",
+        "country": "eu",
+        "score": null
+      },
+      {
+        "name": "T1",
+        "country": "kr",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "3d 10h",
+    "timestamp": 1758193200,
+    "utcDate": "Thu, 18 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-18T11:00:00.000Z"
+  },
+  {
+    "id": "542198",
+    "teams": [
+      {
+        "name": "Xi Lai Gaming",
+        "country": "cn",
+        "score": null
+      },
+      {
+        "name": "Sentinels",
+        "country": "us",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "4d 7h",
+    "timestamp": 1758268800,
+    "utcDate": "Fri, 19 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-19T08:00:00.000Z"
+  },
+  {
+    "id": "542203",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "4d 10h",
+    "timestamp": 1758279600,
+    "utcDate": "Fri, 19 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-19T11:00:00.000Z"
+  },
+  {
+    "id": "542209",
+    "teams": [
+      {
+        "name": "Team Liquid",
+        "country": "eu",
+        "score": null
+      },
+      {
+        "name": "EDward Gaming",
+        "country": "cn",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "5d 7h",
+    "timestamp": 1758355200,
+    "utcDate": "Sat, 20 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-20T08:00:00.000Z"
+  },
+  {
+    "id": "542214",
+    "teams": [
+      {
+        "name": "G2 Esports",
+        "country": "us",
+        "score": null
+      },
+      {
+        "name": "Dragon Ranger Gaming",
+        "country": "cn",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "5d 10h",
+    "timestamp": 1758366000,
+    "utcDate": "Sat, 20 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-20T11:00:00.000Z"
+  },
+  {
+    "id": "542199",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "6d 7h",
+    "timestamp": 1758441600,
+    "utcDate": "Sun, 21 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-21T08:00:00.000Z"
+  },
+  {
+    "id": "542204",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "6d 10h",
+    "timestamp": 1758452400,
+    "utcDate": "Sun, 21 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-21T11:00:00.000Z"
+  },
+  {
+    "id": "542210",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 0d",
+    "timestamp": 1758528000,
+    "utcDate": "Mon, 22 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-22T08:00:00.000Z"
+  },
+  {
+    "id": "542215",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 0d",
+    "timestamp": 1758538800,
+    "utcDate": "Mon, 22 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-22T11:00:00.000Z"
+  },
+  {
+    "id": "542264",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 3d",
+    "timestamp": 1758787200,
+    "utcDate": "Thu, 25 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-25T08:00:00.000Z"
+  },
+  {
+    "id": "542265",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 3d",
+    "timestamp": 1758798000,
+    "utcDate": "Thu, 25 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-25T11:00:00.000Z"
+  },
+  {
+    "id": "542266",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 4d",
+    "timestamp": 1758873600,
+    "utcDate": "Fri, 26 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-26T08:00:00.000Z"
+  },
+  {
+    "id": "542267",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 4d",
+    "timestamp": 1758884400,
+    "utcDate": "Fri, 26 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-26T11:00:00.000Z"
+  },
+  {
+    "id": "542273",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 1",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 5d",
+    "timestamp": 1758960000,
+    "utcDate": "Sat, 27 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-27T08:00:00.000Z"
+  },
+  {
+    "id": "542274",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 1",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 5d",
+    "timestamp": 1758970800,
+    "utcDate": "Sat, 27 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-27T11:00:00.000Z"
+  },
+  {
+    "id": "542268",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Semifinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 6d",
+    "timestamp": 1759046400,
+    "utcDate": "Sun, 28 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-28T08:00:00.000Z"
+  },
+  {
+    "id": "542269",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Semifinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 6d",
+    "timestamp": 1759057200,
+    "utcDate": "Sun, 28 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-28T11:00:00.000Z"
+  },
+  {
+    "id": "542277",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 2",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 0d",
+    "timestamp": 1759132800,
+    "utcDate": "Mon, 29 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-29T08:00:00.000Z"
+  },
+  {
+    "id": "542276",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 2",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 0d",
+    "timestamp": 1759143600,
+    "utcDate": "Mon, 29 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-29T11:00:00.000Z"
+  },
+  {
+    "id": "542270",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 4d",
+    "timestamp": 1759471200,
+    "utcDate": "Fri, 03 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-03T06:00:00.000Z"
+  },
+  {
+    "id": "542278",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 3",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 4d",
+    "timestamp": 1759482000,
+    "utcDate": "Fri, 03 Oct 2025 09:00:00 GMT",
+    "utc": "2025-10-03T09:00:00.000Z"
+  },
+  {
+    "id": "542279",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 5d",
+    "timestamp": 1759557600,
+    "utcDate": "Sat, 04 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-04T06:00:00.000Z"
+  },
+  {
+    "id": "542272",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Grand Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 6d",
+    "timestamp": 1759644000,
+    "utcDate": "Sun, 05 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-05T06:00:00.000Z"
+  },
+  {
+    "id": "534747",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Upper Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 3d",
+    "timestamp": 1760022000,
+    "utcDate": "Thu, 09 Oct 2025 15:00:00 GMT",
+    "utc": "2025-10-09T15:00:00.000Z"
+  },
+  {
+    "id": "534753",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Lower Round 3",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 3d",
+    "timestamp": 1760032800,
+    "utcDate": "Thu, 09 Oct 2025 18:00:00 GMT",
+    "utc": "2025-10-09T18:00:00.000Z"
+  },
+  {
+    "id": "534754",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Lower Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 4d",
+    "timestamp": 1760108400,
+    "utcDate": "Fri, 10 Oct 2025 15:00:00 GMT",
+    "utc": "2025-10-10T15:00:00.000Z"
+  },
+  {
+    "id": "541686",
+    "teams": [
+      {
+        "name": "Akave Esports GC",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "KRÜ BLAZE",
+        "country": "cl",
+        "score": null
+      }
+    ],
+    "status": "TBD",
+    "event": "Regional Final–Main Event",
+    "tournament": "Game Changers 2025: LATAM Main Event",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "",
+    "timestamp": null,
+    "utcDate": "Invalid Date",
+    "utc": null
+  },
+  {
+    "id": "534748",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Grand Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 5d",
+    "timestamp": 1760198400,
+    "utcDate": "Sat, 11 Oct 2025 16:00:00 GMT",
+    "utc": "2025-10-11T16:00:00.000Z"
+  },
+  {
+    "id": "540553",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "TBD",
+    "event": "Main Event–Grand Final",
+    "tournament": "Game Changers 2025: Americas Last Chance Qualifier",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "",
+    "timestamp": null,
+    "utcDate": "Invalid Date",
+    "utc": null
+  },
+  {
+    "id": "542200",
+    "teams": [
+      {
+        "name": "Bilibili Gaming",
+        "country": "cn",
+        "score": null
+      },
+      {
+        "name": "MIBR",
+        "country": "br",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Opening (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "7h 21m",
+    "timestamp": 1757923200,
+    "utcDate": "Mon, 15 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-15T08:00:00.000Z"
+  },
+  {
+    "id": "542201",
+    "teams": [
+      {
+        "name": "Rex Regum Qeon",
+        "country": "id",
+        "score": null
+      },
+      {
+        "name": "FNATIC",
+        "country": "eu",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Opening (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "10h 21m",
+    "timestamp": 1757934000,
+    "utcDate": "Mon, 15 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-15T11:00:00.000Z"
+  },
+  {
+    "id": "542197",
+    "teams": [
+      {
+        "name": "Paper Rex",
+        "country": "sg",
+        "score": null
+      },
+      {
+        "name": "GIANTX",
+        "country": "eu",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2d 7h",
+    "timestamp": 1758096000,
+    "utcDate": "Wed, 17 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-17T08:00:00.000Z"
+  },
+  {
+    "id": "542202",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2d 10h",
+    "timestamp": 1758106800,
+    "utcDate": "Wed, 17 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-17T11:00:00.000Z"
+  },
+  {
+    "id": "542208",
+    "teams": [
+      {
+        "name": "DRX",
+        "country": "kr",
+        "score": null
+      },
+      {
+        "name": "NRG",
+        "country": "us",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "3d 7h",
+    "timestamp": 1758182400,
+    "utcDate": "Thu, 18 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-18T08:00:00.000Z"
+  },
+  {
+    "id": "542213",
+    "teams": [
+      {
+        "name": "Team Heretics",
+        "country": "eu",
+        "score": null
+      },
+      {
+        "name": "T1",
+        "country": "kr",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Winner's (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "3d 10h",
+    "timestamp": 1758193200,
+    "utcDate": "Thu, 18 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-18T11:00:00.000Z"
+  },
+  {
+    "id": "542198",
+    "teams": [
+      {
+        "name": "Xi Lai Gaming",
+        "country": "cn",
+        "score": null
+      },
+      {
+        "name": "Sentinels",
+        "country": "us",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "4d 7h",
+    "timestamp": 1758268800,
+    "utcDate": "Fri, 19 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-19T08:00:00.000Z"
+  },
+  {
+    "id": "542203",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "4d 10h",
+    "timestamp": 1758279600,
+    "utcDate": "Fri, 19 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-19T11:00:00.000Z"
+  },
+  {
+    "id": "542209",
+    "teams": [
+      {
+        "name": "Team Liquid",
+        "country": "eu",
+        "score": null
+      },
+      {
+        "name": "EDward Gaming",
+        "country": "cn",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "5d 7h",
+    "timestamp": 1758355200,
+    "utcDate": "Sat, 20 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-20T08:00:00.000Z"
+  },
+  {
+    "id": "542214",
+    "teams": [
+      {
+        "name": "G2 Esports",
+        "country": "us",
+        "score": null
+      },
+      {
+        "name": "Dragon Ranger Gaming",
+        "country": "cn",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Elimination (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "5d 10h",
+    "timestamp": 1758366000,
+    "utcDate": "Sat, 20 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-20T11:00:00.000Z"
+  },
+  {
+    "id": "542199",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (A)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "6d 7h",
+    "timestamp": 1758441600,
+    "utcDate": "Sun, 21 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-21T08:00:00.000Z"
+  },
+  {
+    "id": "542204",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (B)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "6d 10h",
+    "timestamp": 1758452400,
+    "utcDate": "Sun, 21 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-21T11:00:00.000Z"
+  },
+  {
+    "id": "542210",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (C)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 0d",
+    "timestamp": 1758528000,
+    "utcDate": "Mon, 22 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-22T08:00:00.000Z"
+  },
+  {
+    "id": "542215",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Group Stage–Decider (D)",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 0d",
+    "timestamp": 1758538800,
+    "utcDate": "Mon, 22 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-22T11:00:00.000Z"
+  },
+  {
+    "id": "542264",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 3d",
+    "timestamp": 1758787200,
+    "utcDate": "Thu, 25 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-25T08:00:00.000Z"
+  },
+  {
+    "id": "542265",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 3d",
+    "timestamp": 1758798000,
+    "utcDate": "Thu, 25 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-25T11:00:00.000Z"
+  },
+  {
+    "id": "542266",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 4d",
+    "timestamp": 1758873600,
+    "utcDate": "Fri, 26 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-26T08:00:00.000Z"
+  },
+  {
+    "id": "542267",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Quarterfinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 4d",
+    "timestamp": 1758884400,
+    "utcDate": "Fri, 26 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-26T11:00:00.000Z"
+  },
+  {
+    "id": "542273",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 1",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 5d",
+    "timestamp": 1758960000,
+    "utcDate": "Sat, 27 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-27T08:00:00.000Z"
+  },
+  {
+    "id": "542274",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 1",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 5d",
+    "timestamp": 1758970800,
+    "utcDate": "Sat, 27 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-27T11:00:00.000Z"
+  },
+  {
+    "id": "542268",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Semifinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 6d",
+    "timestamp": 1759046400,
+    "utcDate": "Sun, 28 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-28T08:00:00.000Z"
+  },
+  {
+    "id": "542269",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Semifinals",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "1w 6d",
+    "timestamp": 1759057200,
+    "utcDate": "Sun, 28 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-28T11:00:00.000Z"
+  },
+  {
+    "id": "542277",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 2",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 0d",
+    "timestamp": 1759132800,
+    "utcDate": "Mon, 29 Sep 2025 08:00:00 GMT",
+    "utc": "2025-09-29T08:00:00.000Z"
+  },
+  {
+    "id": "542276",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 2",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 0d",
+    "timestamp": 1759143600,
+    "utcDate": "Mon, 29 Sep 2025 11:00:00 GMT",
+    "utc": "2025-09-29T11:00:00.000Z"
+  },
+  {
+    "id": "542270",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Upper Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 4d",
+    "timestamp": 1759471200,
+    "utcDate": "Fri, 03 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-03T06:00:00.000Z"
+  },
+  {
+    "id": "542278",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Round 3",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 4d",
+    "timestamp": 1759482000,
+    "utcDate": "Fri, 03 Oct 2025 09:00:00 GMT",
+    "utc": "2025-10-03T09:00:00.000Z"
+  },
+  {
+    "id": "542279",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Lower Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 5d",
+    "timestamp": 1759557600,
+    "utcDate": "Sat, 04 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-04T06:00:00.000Z"
+  },
+  {
+    "id": "542272",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Playoffs–Grand Final",
+    "tournament": "Valorant  Champions 2025",
+    "img": "https://owcdn.net/img/63067806d167d.png",
+    "in": "2w 6d",
+    "timestamp": 1759644000,
+    "utcDate": "Sun, 05 Oct 2025 06:00:00 GMT",
+    "utc": "2025-10-05T06:00:00.000Z"
+  },
+  {
+    "id": "534747",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Upper Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 3d",
+    "timestamp": 1760022000,
+    "utcDate": "Thu, 09 Oct 2025 15:00:00 GMT",
+    "utc": "2025-10-09T15:00:00.000Z"
+  },
+  {
+    "id": "534753",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Lower Round 3",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 3d",
+    "timestamp": 1760032800,
+    "utcDate": "Thu, 09 Oct 2025 18:00:00 GMT",
+    "utc": "2025-10-09T18:00:00.000Z"
+  },
+  {
+    "id": "534754",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Lower Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 4d",
+    "timestamp": 1760108400,
+    "utcDate": "Fri, 10 Oct 2025 15:00:00 GMT",
+    "utc": "2025-10-10T15:00:00.000Z"
+  },
+  {
+    "id": "541686",
+    "teams": [
+      {
+        "name": "Akave Esports GC",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "KRÜ BLAZE",
+        "country": "cl",
+        "score": null
+      }
+    ],
+    "status": "TBD",
+    "event": "Regional Final–Main Event",
+    "tournament": "Game Changers 2025: LATAM Main Event",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "",
+    "timestamp": null,
+    "utcDate": "Invalid Date",
+    "utc": null
+  },
+  {
+    "id": "534748",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "Upcoming",
+    "event": "Main Event–Grand Final",
+    "tournament": "Game Changers 2025: Brazil Finals",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "3w 5d",
+    "timestamp": 1760198400,
+    "utcDate": "Sat, 11 Oct 2025 16:00:00 GMT",
+    "utc": "2025-10-11T16:00:00.000Z"
+  },
+  {
+    "id": "540553",
+    "teams": [
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      },
+      {
+        "name": "TBD",
+        "country": "un",
+        "score": null
+      }
+    ],
+    "status": "TBD",
+    "event": "Main Event–Grand Final",
+    "tournament": "Game Changers 2025: Americas Last Chance Qualifier",
+    "img": "https://owcdn.net/img/604be13d01964.png",
+    "in": "",
+    "timestamp": null,
+    "utcDate": "Invalid Date",
+    "utc": null
+  }
+]

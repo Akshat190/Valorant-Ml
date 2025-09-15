@@ -35,9 +35,11 @@ MODEL_CONFIG = {
 
 # Data Collection Configuration
 DATA_CONFIG = {
-    'max_results': 1000,  # Maximum number of results to fetch
+    'max_results': 2000,  # Maximum number of results to fetch
     'min_matches_for_stats': 5,  # Minimum matches required for team statistics
-    'recent_matches_window': 10  # Number of recent matches to consider for form
+    'recent_matches_window': 10,  # Number of recent matches to consider for form
+    'max_events_pages': 20,  # Maximum pages to fetch for events (increased for better coverage)
+    'max_matches_pages': 50  # Maximum pages to fetch for matches (increased for comprehensive data)
 }
 
 # VCT Regions Configuration

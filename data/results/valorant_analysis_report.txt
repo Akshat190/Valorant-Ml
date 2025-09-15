@@ -1,0 +1,28 @@
+
+VALORANT ESPORTS DATA ANALYSIS REPORT
+Generated: 2025-09-15 11:45:43
+
+EVENTS DATA SUMMARY:
+- Total Events: 246
+- Active Events: 1
+- Total Prize Pool: $23,782,978 if events_df is not None and 'prize_pool' in events_df.columns else 'N/A'
+
+MATCHES DATA SUMMARY:
+- Total Matches: 1700
+- Upcoming Matches: 1600
+- Completed Matches: 0
+
+RESULTS DATA SUMMARY:
+- Total Results: 50
+
+KEY INSIGHTS:
+- The data provides comprehensive coverage of Valorant esports
+- Events span multiple regions and prize pools
+- Match data includes both historical and upcoming matches
+- Results data enables performance analysis and prediction modeling
+
+RECOMMENDATIONS:
+1. Use this data for machine learning model training
+2. Regular updates will improve prediction accuracy
+3. Focus on high-prize pool tournaments for better data quality
+4. Consider regional performance differences in modeling

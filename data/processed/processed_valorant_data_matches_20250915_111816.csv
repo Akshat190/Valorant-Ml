@@ -1,0 +1,51 @@
+match_id,team1_name,team2_name,team1_country,team2_country,team1_score,team2_score,team1_won,team2_won,winner,match_date,status,event,tournament
+542211,G2 Esports,Team Heretics,us,eu,0,2,False,True,Team Heretics,2025-09-14 21:50:16.454606,Completed,Group Stage–Opening (D),Valorant  Champions 2025
+542212,Dragon Ranger Gaming,T1,cn,kr,0,2,False,True,T1,2025-09-14 18:30:16.454606,Completed,Group Stage–Opening (D),Valorant  Champions 2025
+542205,Team Liquid,DRX,eu,kr,0,2,False,True,DRX,2025-09-14 22:18:16.454606,Completed,Group Stage–Opening (C),Valorant  Champions 2025
+542207,NRG,EDward Gaming,us,cn,2,0,True,False,NRG,2025-09-14 19:18:16.454606,Completed,Group Stage–Opening (C),Valorant  Champions 2025
+542196,GIANTX,Sentinels,eu,us,2,1,True,False,GIANTX,2025-09-14 21:18:16.454606,Completed,Group Stage–Opening (A),Valorant  Champions 2025
+542195,Paper Rex,Xi Lai Gaming,sg,cn,2,0,True,False,Paper Rex,2025-09-14 19:18:16.454606,Completed,Group Stage–Opening (A),Valorant  Champions 2025
+534750,Stellae Gaming GC,Não estamos aqui,br,br,2,0,True,False,Stellae Gaming GC,2025-09-15 04:18:16.454606,Completed,Main Event–Lower Round 1,Game Changers 2025: Brazil Finals
+524954,Akave Esports GC,MYVRA GC,un,un,3,0,True,False,Akave Esports GC,2025-09-15 04:18:16.454606,Completed,North–Grand Final,Game Changers 2025: LATAM Main Event
+534749,Paintress,Corinthians Esports Inclusivo,br,br,0,2,False,True,Corinthians Esports Inclusivo,2025-09-15 02:18:16.454606,Completed,Main Event–Lower Round 1,Game Changers 2025: Brazil Finals
+534744,2Game Esports GC,Não estamos aqui,br,br,2,0,True,False,2Game Esports GC,2025-09-15 04:18:16.454606,Completed,Main Event–Upper Quarterfinals,Game Changers 2025: Brazil Finals
+534741,Team Liquid Brazil,Stellae Gaming GC,br,br,2,0,True,False,Team Liquid Brazil,2025-09-15 02:18:16.454606,Completed,Main Event–Upper Quarterfinals,Game Changers 2025: Brazil Finals
+524943,LEVIATÁN GC,KRÜ BLAZE,cl,cl,2,3,False,True,KRÜ BLAZE,2025-09-15 01:18:16.454606,Completed,South–Grand Final,Game Changers 2025: LATAM Main Event
+535406,DNSTY,ULF Esports,it,tr,1,3,False,True,ULF Esports,2025-09-14 21:18:16.454606,Completed,Playoffs–Grand Final,Challengers 2025: EMEA Stage 3
+538772,EMPIRE :3,Tenax GC,us,us,2,0,True,False,EMPIRE :3,2025-09-15 06:18:16.454606,Completed,Swiss Stage–Round 6 (3-2 vs. 2-3),Game Changers 2025: North America Stage 2
+538771,Blue Otter GC,YDZ Black,us,us,2,1,True,False,Blue Otter GC,2025-09-15 06:18:16.454606,Completed,Swiss Stage–Round 6 (2-3),Game Changers 2025: North America Stage 2
+538773,Mak N Cheese,^-^,us,us,0,2,False,True,^-^,2025-09-15 06:18:16.454606,Completed,Swiss Stage–Round 6 (2-3),Game Changers 2025: North America Stage 2
+534742,Corinthians Esports Inclusivo,TBS Esports GC,br,br,0,2,False,True,TBS Esports GC,2025-09-15 05:18:16.454606,Completed,Main Event–Upper Quarterfinals,Game Changers 2025: Brazil Finals
+538769,100 Thieves GC,FlyQuest RED,us,us,2,1,True,False,100 Thieves GC,2025-09-15 03:18:16.454606,Completed,Swiss Stage–Round 6 (3-2),Game Changers 2025: North America Stage 2
+538770,Ghost Gaming,Hakikimori GC,us,us,2,1,True,False,Ghost Gaming,2025-09-15 03:18:16.454606,Completed,Swiss Stage–Round 6 (3-2),Game Changers 2025: North America Stage 2
+534743,MIBR GC,Paintress,br,br,2,0,True,False,MIBR GC,2025-09-15 02:18:16.454606,Completed,Main Event–Upper Quarterfinals,Game Changers 2025: Brazil Finals
+535405,ULF Esports,Mandatory,tr,fr,3,0,True,False,ULF Esports,2025-09-14 21:18:16.454606,Completed,Playoffs–Lower Final,Challengers 2025: EMEA Stage 3
+543782,RED Canids,Team Solid,br,br,0,3,False,True,Team Solid,2025-09-15 11:18:16.454606,Completed,Main Event–Grand Final,Challengers 2025: Brazil Gamers Club Last Chance Qualifier
+544548,Alliance Guardians,Burger Boyz,us,us,3,1,True,False,Alliance Guardians,2025-09-15 11:18:16.455606,Completed,Promotion/Relegation–Promotion Match,Challengers 2025: North America ACE Stage 3
+544549,Team Slatt,SaD Esports,us,us,1,3,False,True,SaD Esports,2025-09-15 11:18:16.455606,Completed,Promotion/Relegation–Promotion Match,Challengers 2025: North America ACE Stage 3
+532277,ShindeN,Six Karma,ar,mx,3,1,True,False,ShindeN,2025-09-15 11:18:16.455606,Completed,Main Event–Decider,Challengers 2025: Latin America Finals
+535404,DNSTY,ULF Esports,it,tr,2,1,True,False,DNSTY,2025-09-15 11:18:16.455606,Completed,Playoffs–Upper Final,Challengers 2025: EMEA Stage 3
+535403,Mandatory,Twisted Minds,fr,sa,2,1,True,False,Mandatory,2025-09-15 11:18:16.455606,Completed,Playoffs–Lower Round 1,Challengers 2025: EMEA Stage 3
+521247,Motiv Esports,FULL SENSE,sg,th,3,1,True,False,Motiv Esports,2025-09-15 11:18:16.455606,Completed,Playoffs–Grand Final,Challengers 2025: Southeast Asia Split 3
+538575,Titan Esports Club,JDG Esports,cn,cn,0,3,False,True,JDG Esports,2025-09-15 11:18:16.455606,Completed,Main Event–Grand Final,China Evolution Series: Act 3
+543173,Shopify Rebellion Gold,Prosperity Esports,ca,us,1,2,False,True,Prosperity Esports,2025-09-14 11:18:16.455606,Completed,Promotion/Relegation–Round 3,Challengers 2025: North America ACE Stage 3
+532275,9z Team,ShindeN,cl,ar,3,1,True,False,9z Team,2025-09-14 11:18:16.455606,Completed,Main Event–Winner's,Challengers 2025: Latin America Finals
+531690,Team Solid,Los Grandes,br,br,3,2,True,False,Team Solid,2025-09-14 11:18:16.455606,Completed,Main Event–Lower Final,Challengers 2025: Brazil Gamers Club Last Chance Qualifier
+543172,SaD Esports,Burger Boyz,us,us,2,1,True,False,SaD Esports,2025-09-14 11:18:16.455606,Completed,Promotion/Relegation–Round 3,Challengers 2025: North America ACE Stage 3
+532276,E-Xolos LAZER,Six Karma,co,mx,1,3,False,True,Six Karma,2025-09-14 11:18:16.455606,Completed,Main Event–Elimination,Challengers 2025: Latin America Finals
+535402,Twisted Minds,ULF Esports,sa,tr,1,2,False,True,ULF Esports,2025-09-14 11:18:16.455606,Completed,Playoffs–Upper Semifinals,Challengers 2025: EMEA Stage 3
+535401,Mandatory,DNSTY,fr,it,1,2,False,True,DNSTY,2025-09-14 11:18:16.455606,Completed,Playoffs–Upper Semifinals,Challengers 2025: EMEA Stage 3
+521249,NAOS,FULL SENSE,ph,th,1,3,False,True,FULL SENSE,2025-09-14 11:18:16.455606,Completed,Playoffs–Lower Final,Challengers 2025: Southeast Asia Split 3
+538576,FunPlus Phoenix,Wolves Esports,cn,cn,0,3,False,True,Wolves Esports,2025-09-14 11:18:16.455606,Completed,Main Event–Consolation Final,China Evolution Series: Act 3
+528187,FEARX,SLT Seongnam,kr,kr,1,3,False,True,SLT Seongnam,2025-09-14 11:18:16.455606,Completed,Main Event–Grand Final,Challengers 2025: Korea WDG Road to Ascension
+531688,Team Solid,RED Canids,br,br,1,2,False,True,RED Canids,2025-09-13 11:18:16.455606,Completed,Main Event–Upper Final,Challengers 2025: Brazil Gamers Club Last Chance Qualifier
+543171,SaD Esports,Prosperity Esports,us,us,2,1,True,False,SaD Esports,2025-09-13 11:18:16.455606,Completed,Promotion/Relegation–Round 2,Challengers 2025: North America ACE Stage 3
+532274,ShindeN,Six Karma,ar,mx,2,0,True,False,ShindeN,2025-09-13 11:18:16.455606,Completed,Main Event–Opening,Challengers 2025: Latin America Finals
+531689,Los Grandes,Corinthians Esports,br,br,2,0,True,False,Los Grandes,2025-09-13 11:18:16.455606,Completed,Main Event–Lower Round 1,Challengers 2025: Brazil Gamers Club Last Chance Qualifier
+543170,Shopify Rebellion Gold,Burger Boyz,ca,us,1,2,False,True,Burger Boyz,2025-09-13 11:18:16.455606,Completed,Promotion/Relegation–Round 2,Challengers 2025: North America ACE Stage 3
+532273,E-Xolos LAZER,9z Team,co,cl,1,2,False,True,9z Team,2025-09-13 11:18:16.455606,Completed,Main Event–Opening,Challengers 2025: Latin America Finals
+538442,ULF Esports,děti ulice,tr,eu,2,1,True,False,ULF Esports,2025-09-13 11:18:16.455606,Completed,Group Stage–Day 5,Challengers 2025: EMEA Stage 3
+521246,Motiv Esports,NAOS,sg,ph,2,0,True,False,Motiv Esports,2025-09-13 11:18:16.455606,Completed,Playoffs–Upper Final,Challengers 2025: Southeast Asia Split 3
+538441,BOARS,Twisted Minds,ua,sa,0,2,False,True,Twisted Minds,2025-09-13 11:18:16.455606,Completed,Group Stage–Day 5,Challengers 2025: EMEA Stage 3
+538574,JDG Esports,Wolves Esports,cn,cn,2,1,True,False,JDG Esports,2025-09-13 11:18:16.455606,Completed,Main Event–Semifinals,China Evolution Series: Act 3
+521248,FULL SENSE,Team NKT,th,th,2,1,True,False,FULL SENSE,2025-09-13 11:18:16.455606,Completed,Playoffs–Lower Round 1,Challengers 2025: Southeast Asia Split 3

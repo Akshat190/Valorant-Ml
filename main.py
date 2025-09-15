@@ -195,7 +195,7 @@ def demo_predictions(predictor):
 def main():
     """Main execution function"""
     parser = argparse.ArgumentParser(description='Valorant VCT Winner Prediction System')
-    parser.add_argument('--mode', choices=['full', 'collect', 'collect-csv', 'collect-all-regions', 'preprocess', 'train', 'predict', 'analyze-csv'], 
+    parser.add_argument('--mode', choices=['full', 'collect', 'collect-csv', 'collect-all-regions', 'preprocess', 'train', 'predict', 'analyze-csv', 'collect-map-stats', 'collect-historical'], 
                        default='full', help='Execution mode')
     parser.add_argument('--model-path', type=str, help='Path to saved model for prediction mode')
     parser.add_argument('--team1', type=str, help='Team 1 name for prediction')
@@ -241,8 +241,41 @@ def main():
         
     elif args.mode == 'analyze-csv':
         # Analyze existing CSV data
-        from analyze_csv_data import main as analyze_main
-        analyze_main()
+        from analyze_csv_data import load_latest_csv_files, analyze_events_data, analyze_matches_data, analyze_results_data, generate_summary_report
+        
+        print("Loading and analyzing CSV data...")
+        data = load_latest_csv_files()
+        
+        events_df = data.get('events')
+        matches_df = data.get('matches')
+        results_df = data.get('results')
+        
+        if events_df is not None:
+            events_df = analyze_events_data(events_df)
+        
+        if matches_df is not None:
+            matches_df = analyze_matches_data(matches_df)
+        
+        if results_df is not None:
+            results_df = analyze_results_data(results_df)
+        
+        # Generate summary report
+        generate_summary_report(events_df, matches_df, results_df)
+        
+        print("\nAnalysis completed!")
+        
+    elif args.mode == 'collect-map-stats':
+        # Collect and aggregate map-level stats
+        from map_stats_collector import collect_map_stats
+        print("Collecting map-level stats from recent matches...")
+        collect_map_stats()
+        print("Enriched team_map_stats.csv with map metadata (valorant-api.com)")
+        
+    elif args.mode == 'collect-historical':
+        # Collect 2-3 years of historical data approximation
+        from historical_data_collector import collect_historical
+        print("Collecting historical datasets (teams, map win rates, previous matches)...")
+        collect_historical()
         
     elif args.mode == 'preprocess':
         # Load existing raw data

@@ -34,10 +34,10 @@ def collect_region_data(region, status="all", save_csv=True):
     print(f"\nFetching results...")
     results = collector.fetch_results(limit=1000)
     
-    # Collect teams and players
-    print(f"\nFetching teams and players...")
-    teams = collector.fetch_teams()
-    players = collector.fetch_players()
+    # Skip teams and players (APIs returning 404)
+    print(f"\nSkipping teams and players (APIs not available)...")
+    teams = []
+    players = []
     
     # Prepare data
     data = {

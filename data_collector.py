@@ -42,24 +42,14 @@ class ValorantDataCollector:
             return []
     
     def fetch_teams(self) -> List[Dict]:
-        """Fetch team data from the API"""
-        try:
-            response = self.session.get(ENDPOINTS['teams'])
-            response.raise_for_status()
-            return response.json()
-        except requests.exceptions.RequestException as e:
-            print(f"Error fetching teams: {e}")
-            return []
+        """Fetch team data from the API - DISABLED due to 404 errors"""
+        print("Teams API disabled - returning empty list")
+        return []
     
     def fetch_players(self) -> List[Dict]:
-        """Fetch player data from the API"""
-        try:
-            response = self.session.get(ENDPOINTS['players'])
-            response.raise_for_status()
-            return response.json()
-        except requests.exceptions.RequestException as e:
-            print(f"Error fetching players: {e}")
-            return []
+        """Fetch player data from the API - DISABLED due to 404 errors"""
+        print("Players API disabled - returning empty list")
+        return []
     
     def fetch_events(self, status: str = "all", region: str = "all", page: int = 1) -> List[Dict]:
         """Fetch events data from the API with filtering options"""
@@ -81,16 +71,20 @@ class ValorantDataCollector:
             print(f"Error fetching events: {e}")
             return []
     
-    def fetch_all_events(self, status: str = "all", region: str = "all") -> List[Dict]:
-        """Fetch all events data across all pages"""
+    def fetch_all_events(self, status: str = "all", region: str = "all", max_pages: int = None) -> List[Dict]:
+        """Fetch events data across pages with limit"""
+        if max_pages is None:
+            max_pages = DATA_CONFIG['max_events_pages']
+            
         all_events = []
         page = 1
         
-        while True:
+        while page <= max_pages:
             print(f"Fetching events page {page}...")
             events = self.fetch_events(status, region, page)
             
             if not events:
+                print(f"No more events found on page {page}")
                 break
                 
             all_events.extend(events)
@@ -99,7 +93,7 @@ class ValorantDataCollector:
             # Add delay to be respectful to the API
             time.sleep(0.5)
         
-        print(f"Fetched {len(all_events)} events total")
+        print(f"Fetched {len(all_events)} events total (max {max_pages} pages)")
         return all_events
     
     def fetch_matches(self, page: int = 1) -> List[Dict]:
@@ -118,16 +112,20 @@ class ValorantDataCollector:
             print(f"Error fetching matches: {e}")
             return []
     
-    def fetch_all_matches(self) -> List[Dict]:
-        """Fetch all matches data across all pages"""
+    def fetch_all_matches(self, max_pages: int = None) -> List[Dict]:
+        """Fetch matches data across pages with limit"""
+        if max_pages is None:
+            max_pages = DATA_CONFIG['max_matches_pages']
+            
         all_matches = []
         page = 1
         
-        while True:
+        while page <= max_pages:
             print(f"Fetching matches page {page}...")
             matches = self.fetch_matches(page)
             
             if not matches:
+                print(f"No more matches found on page {page}")
                 break
                 
             all_matches.extend(matches)
@@ -136,7 +134,7 @@ class ValorantDataCollector:
             # Add delay to be respectful to the API
             time.sleep(0.5)
         
-        print(f"Fetched {len(all_matches)} matches total")
+        print(f"Fetched {len(all_matches)} matches total (max {max_pages} pages)")
         return all_matches
     
     def collect_all_data(self, fetch_all_events: bool = True, fetch_all_matches: bool = True) -> Dict[str, List[Dict]]:
@@ -153,18 +151,10 @@ class ValorantDataCollector:
         # Add small delay to be respectful to the API
         time.sleep(1)
         
-        # Fetch other data
-        print("Fetching teams data...")
-        data['teams'] = self.fetch_teams()
-        print(f"Fetched {len(data['teams'])} teams")
-        
-        time.sleep(1)
-        
-        print("Fetching players data...")
-        data['players'] = self.fetch_players()
-        print(f"Fetched {len(data['players'])} players")
-        
-        time.sleep(1)
+        # Skip teams and players (APIs returning 404)
+        print("Skipping teams and players (APIs not available)...")
+        data['teams'] = []
+        data['players'] = []
         
         # Fetch events data (enhanced with pagination)
         if fetch_all_events:
@@ -189,16 +179,20 @@ class ValorantDataCollector:
         return data
     
     def save_data(self, data: Dict[str, List[Dict]], filename_prefix: str = "valorant_data"):
-        """Save collected data to JSON and CSV files"""
+        """Save collected data to JSON and CSV files in organized folders"""
         import json
         import pandas as pd
         from datetime import datetime
+        import os
+        
+        # Create data/raw directory if it doesn't exist
+        os.makedirs("data/raw", exist_ok=True)
         
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
         
         for data_type, data_list in data.items():
-            # Save as JSON
-            json_filename = f"{filename_prefix}_{data_type}_{timestamp}.json"
+            # Save as JSON in data/raw folder
+            json_filename = f"data/raw/{filename_prefix}_{data_type}_{timestamp}.json"
             with open(json_filename, 'w', encoding='utf-8') as f:
                 json.dump(data_list, f, indent=2, ensure_ascii=False)
             print(f"Saved {data_type} data to {json_filename}")
@@ -207,7 +201,7 @@ class ValorantDataCollector:
             if data_list:
                 try:
                     df = pd.DataFrame(data_list)
-                    csv_filename = f"{filename_prefix}_{data_type}_{timestamp}.csv"
+                    csv_filename = f"data/raw/{filename_prefix}_{data_type}_{timestamp}.csv"
                     df.to_csv(csv_filename, index=False, encoding='utf-8')
                     print(f"Saved {data_type} data to {csv_filename}")
                 except Exception as e:
@@ -221,7 +215,9 @@ class ValorantDataCollector:
         
         if filename is None:
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            filename = f"valorant_events_{timestamp}.csv"
+            filename = f"data/raw/valorant_events_{timestamp}.csv"
+        elif not filename.startswith("data/"):
+            filename = f"data/raw/{filename}"
         
         # Create DataFrame and clean data
         df = pd.DataFrame(events)
@@ -258,7 +254,9 @@ class ValorantDataCollector:
         
         if filename is None:
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            filename = f"valorant_matches_{timestamp}.csv"
+            filename = f"data/raw/valorant_matches_{timestamp}.csv"
+        elif not filename.startswith("data/"):
+            filename = f"data/raw/{filename}"
         
         # Process matches data for CSV
         processed_matches = []

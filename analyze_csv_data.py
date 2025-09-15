@@ -13,17 +13,17 @@ import argparse
 
 
 def load_latest_csv_files():
-    """Load the most recent CSV files"""
+    """Load the most recent CSV files from data/raw folder"""
     # Find the latest events file
-    events_files = glob.glob("valorant_events_*.csv") + glob.glob("valorant_complete_data_events_*.csv")
+    events_files = glob.glob("data/raw/valorant_events_*.csv") + glob.glob("data/raw/valorant_complete_data_events_*.csv")
     events_file = max(events_files, key=os.path.getctime) if events_files else None
     
     # Find the latest matches file
-    matches_files = glob.glob("valorant_matches_*.csv") + glob.glob("valorant_complete_data_matches_*.csv")
+    matches_files = glob.glob("data/raw/valorant_matches_*.csv") + glob.glob("data/raw/valorant_complete_data_matches_*.csv")
     matches_file = max(matches_files, key=os.path.getctime) if matches_files else None
     
     # Find the latest results file
-    results_files = glob.glob("valorant_complete_data_results_*.csv")
+    results_files = glob.glob("data/raw/valorant_complete_data_results_*.csv")
     results_file = max(results_files, key=os.path.getctime) if results_files else None
     
     data = {}
@@ -297,7 +297,7 @@ Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
 EVENTS DATA SUMMARY:
 - Total Events: {len(events_df) if events_df is not None else 'N/A'}
 - Active Events: {len(events_df[events_df['event_status'] == 'ongoing']) if events_df is not None and 'event_status' in events_df.columns else 'N/A'}
-- Total Prize Pool: ${events_df['prize_pool'].sum():,.0f} if events_df is not None and 'prize_pool' in events_df.columns else 'N/A'}
+- Total Prize Pool: ${events_df['prize_pool'].sum():,.0f} if events_df is not None and 'prize_pool' in events_df.columns else 'N/A'
 
 MATCHES DATA SUMMARY:
 - Total Matches: {len(matches_df) if matches_df is not None else 'N/A'}
@@ -322,11 +322,12 @@ RECOMMENDATIONS:
     
     print(report)
     
-    # Save report to file
-    with open('valorant_analysis_report.txt', 'w') as f:
+    # Save report to file in results folder
+    os.makedirs("data/results", exist_ok=True)
+    with open('data/results/valorant_analysis_report.txt', 'w') as f:
         f.write(report)
     
-    print("Summary report saved as 'valorant_analysis_report.txt'")
+    print("Summary report saved as 'data/results/valorant_analysis_report.txt'")
 
 
 def main():

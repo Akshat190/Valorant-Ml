@@ -5,6 +5,7 @@ Prediction interface for Valorant match outcomes
 import pandas as pd
 import numpy as np
 import joblib
+import os
 from typing import Dict, List, Optional, Tuple
 from datetime import datetime
 import json
@@ -30,7 +31,12 @@ class ValorantPredictionInterface:
             self.model = joblib.load(f"{model_path}.joblib")
             self.scaler = joblib.load(f"{model_path}_scaler.joblib")
             
-            with open(f"{model_path}_features.txt", 'r') as f:
+            # Try to load features from results folder
+            features_path = f"{model_path}_features.txt"
+            if not os.path.exists(features_path):
+                features_path = f"data/results/{os.path.basename(model_path)}_features.txt"
+            
+            with open(features_path, 'r') as f:
                 self.feature_names = [line.strip() for line in f.readlines()]
             
             print(f"Model loaded successfully from {model_path}")
@@ -106,7 +112,15 @@ class ValorantPredictionInterface:
         score_diff = team1_avg_score - team2_avg_score
         region_diff = team1_region_strength - team2_region_strength
         
-        # Create feature vector
+        # Additional features to match model expectations
+        team1_momentum = self.get_team_stat(team1_name, 'momentum', default_value=0.5)
+        team2_momentum = self.get_team_stat(team2_name, 'momentum', default_value=0.5)
+        team1_strength_of_schedule = self.get_team_stat(team1_name, 'strength_of_schedule', default_value=0.5)
+        team2_strength_of_schedule = self.get_team_stat(team2_name, 'strength_of_schedule', default_value=0.5)
+        team1_tournament_experience = self.get_team_stat(team1_name, 'tournament_experience', default_value=0.5)
+        team2_tournament_experience = self.get_team_stat(team2_name, 'tournament_experience', default_value=0.5)
+        
+        # Create feature vector (21 features to match model)
         features = np.array([
             team1_win_rate,
             team2_win_rate,
@@ -122,7 +136,13 @@ class ValorantPredictionInterface:
             score_diff,
             region_diff,
             3.0,  # Tournament importance (VCT)
-            1.0   # Recency factor (current)
+            1.0,  # Recency factor (current)
+            team1_momentum,
+            team2_momentum,
+            team1_strength_of_schedule,
+            team2_strength_of_schedule,
+            team1_tournament_experience,
+            team2_tournament_experience
         ])
         
         return features
