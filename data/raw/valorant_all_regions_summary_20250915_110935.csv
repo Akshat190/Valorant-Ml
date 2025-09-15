@@ -1,13 +1,3 @@
-,name,events,matches,results,teams,players
-na,North America,246,340,50,0,0
-eu,"Europe, Middle East & Africa",246,340,50,0,0
-br,Brazil,246,340,50,0,0
-ap,Asia Pacific,246,340,50,0,0
-kr,Korea,246,340,50,0,0
-ch,China,246,340,50,0,0
-jp,Japan,246,340,50,0,0
-lan,Latin America North,246,340,50,0,0
-las,Latin America South,246,340,50,0,0
-oce,Oceania,246,340,50,0,0
-mn,Middle East & North Africa,246,340,50,0,0
-gc,Game Changers,246,340,50,0,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:01f62bb6721bb4376ea029a1984dc64ff31aa82dd1dbfe91dfd0a9a19dad8146
+size 447
