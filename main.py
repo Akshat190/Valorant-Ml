@@ -4,6 +4,7 @@ Main script for Valorant VCT Winner Prediction System
 
 import os
 import sys
+import pandas as pd
 from datetime import datetime
 import argparse
 from typing import Dict, List

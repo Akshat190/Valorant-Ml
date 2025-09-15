@@ -245,3 +245,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Valorant Esports API providers
 - VLR.gg for comprehensive esports data
 - The Valorant esports community for inspiration
+
+python main.py --mode collect-all-regions --status all
+   python main.py --mode analyze-csv
+   python main.py --mode full
+      python main.py --mode predict --model-path valorant_model_random_forest --team1 "G2 Esports" --team2 "Team Heretics"
